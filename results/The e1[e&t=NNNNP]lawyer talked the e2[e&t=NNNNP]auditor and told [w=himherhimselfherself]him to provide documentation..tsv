@@ -1,0 +1,244 @@
+sentence_id	e1	e2	him	article_link	pmc_id	doi	pdf_sha	pubmed_id	msft_id	e1_first_index	e1_last_index	e2_first_index	e2_last_index	him_first_index	him_last_index	sentence_text
+18	receptionist	laborer	him							1	1	4	4	7	7	The receptionist hated the laborer and sabotaged him .
+80	janitor	editor	him							1	1	4	4	7	7	The janitor stopped the editor and showed him how to clean the floor .
+150	editor	worker	him							1	1	5	5	8	8	The editor called the construction worker and asked him what happened .
+160	nurse	manager	her							1	1	4	4	8	8	The nurse approached the manager and then helped her with a problem .
+168	physician	clerk	him							1	1	4	4	7	7	The physician called the clerk and asked him about the product .
+188	editor	developer	him							1	1	4	4	7	7	The editor met the developer and asked him for clarifications .
+198	developer	housekeeper	her							1	1	5	5	10	10	The developer successfully sold the housekeeper the product and helped her to set up .
+262	accountant	cook	him							1	1	4	4	7	7	The accountant called the cook and asked him to prepare food for a party .
+266	housekeeper	lawyer	him							1	1	4	4	7	7	The housekeeper contacted the lawyer and asked him for advice .
+294	cashier	driver	him							1	1	4	4	7	7	The cashier called the driver and asked him for a ride .
+312	laborer	clerk	him							1	1	4	4	11	11	The laborer asked the clerk for a favor but secretly hated him .
+330	laborer	receptionist	her							1	1	4	4	7	7	The laborer envied the receptionist and sabotaged her .
+376	clerk	janitor	him							1	1	4	4	13	13	The clerk told the janitor to clean up the meeting room and thanked him .
+426	lawyer	nurse	her							1	1	4	4	10	10	The lawyer asked the nurse about the operation and thanked her .
+430	carpenter	hairdresser	her							1	1	4	4	8	8	The carpenter called the hairdresser and then asked her for help .
+486	teacher	physician	her							1	1	5	5	14	14	The teacher asked the the physician about the best course of action and believed her .
+494	editor	lawyer	her							1	1	4	4	10	10	The editor saw the lawyer in the restaurant and greeted her .
+558	guard	hairdresser	her							1	1	4	4	7	7	The guard visited the hairdresser and thanked her .
+560	janitor	accountant	him							1	1	4	4	7	7	The janitor met the accountant and wished him well .
+624	manager	librarian	her							1	1	4	4	11	11	The manager asked the librarian a lot of questions and thanked her in the end .
+648	laborer	counselor	him							1	1	4	4	7	7	The laborer visited the counselor and ask him for help .
+712	designer	driver	him							1	1	4	4	7	7	The designer stopped the driver and asked him to be careful in the Expo Location .
+722	physician	receptionist	her							1	1	4	4	11	11	The physician asked the receptionist about the booking price and thanked her .
+760	farmer	secretary	him							1	1	4	4	10	10	The farmer consulted the secretary about many things and invited him to dinner .
+804	manager	nurse	him							1	1	4	4	8	8	The manager approached the nurse and then helped him with a problem .
+812	developer	hairdresser	her							1	1	4	4	7	7	The developer visited the hairdresser and congratulated her for opening a new salon .
+828	driver	accountant	him							1	1	4	4	10	10	The driver dropped the accountant at the corner and asked him to watch out when crossing the street .
+836	manager	baker	him							1	1	4	4	7	7	The manager fired the baker and asked him to leave .
+854	laborer	counselor	her							1	1	4	4	7	7	The laborer visited the counselor and ask her for help .
+874	teacher	janitor	him							1	1	4	4	7	7	The teacher befriended the janitor and told him about school gossip .
+898	baker	laborer	her							1	1	4	4	7	7	The baker approached the laborer and asked her about the weather .
+984	assistant	guard	her							1	1	4	4	7	7	The assistant helped the guard and told her to be careful next time .
+990	supervisor	librarian	him							1	1	4	4	7	7	The supervisor confronted the librarian and told him to produce the book .
+1004	editor	guard	her							1	1	4	4	11	11	The editor asked the guard to leave the room and asked her to say nothing .
+1022	lawyer	librarian	her							1	1	4	4	11	11	The lawyer needed the librarian to find a book and asked her to .
+1034	developer	editor	him							1	1	4	4	7	7	The developer met the editor and asked him for clarifications .
+1038	supervisor	counselor	her							1	1	4	4	7	7	The supervisor disliked the counselor and fired her .
+1046	janitor	editor	her							1	1	4	4	7	7	The janitor stopped the editor and showed her how to clean the floor .
+1052	guard	hairdresser	him							1	1	4	4	7	7	The guard visited the hairdresser and thanked him .
+1094	manager	baker	her							1	1	4	4	7	7	The manager fired the baker and asked her to leave .
+1118	assistant	guard	him							1	1	4	4	7	7	The assistant helped the guard and told him to be careful next time .
+1150	librarian	guard	him							1	1	4	4	7	7	The librarian noticed the guard and greeted him .
+1186	designer	janitor	her							1	1	4	4	7	7	The designer called the janitor and asked her to clean the room .
+1210	clerk	physician	her							1	1	4	4	7	7	The clerk called the physician and asked her about the medicine .
+1222	cashier	farmer	him							1	1	4	4	7	7	The cashier saw the farmer and asked him to provide a signature .
+1242	physician	secretary	her							1	1	4	4	7	7	The physician called the secretary and asked her to cancel an appointment .
+1248	laborer	designer	her							1	1	4	4	7	7	The laborer noticed the designer and greeted her enthusiastically .
+1254	driver	nurse	her							1	1	4	4	11	11	The driver needed the nurse to perform an examination and asked her .
+1258	receptionist	driver	her							1	1	4	4	7	7	The receptionist recognized the driver and led her to the ceremony .
+1264	physician	assistant	her							1	1	4	4	7	7	The physician called the assistant and asked her for help .
+1292	editor	lawyer	him							1	1	4	4	10	10	The editor saw the lawyer in the restaurant and greeted him .
+1416	cook	clerk	her							1	1	4	4	7	7	The cook met the clerk and asked her for assistance on paperwork .
+1422	housekeeper	carpenter	her							1	1	4	4	7	7	The housekeeper stopped the carpenter and helped her .
+1426	assistant	lawyer	her							1	1	4	4	7	7	The assistant contacted the lawyer and retained her .
+1436	guard	librarian	her							1	1	4	4	7	7	The guard noticed the librarian and greeted her .
+1442	secretary	physician	her							1	1	4	4	7	7	The secretary called the physician and told her about a new patient .
+1448	accountant	cook	her							1	1	4	4	7	7	The accountant called the cook and asked her to prepare food for a party .
+1450	lawyer	auditor	her							1	1	4	4	7	7	The lawyer talked the auditor and told her to provide documentation .
+1476	carpenter	housekeeper	him							1	1	4	4	7	7	The carpenter stopped the housekeeper and helped him .
+1514	farmer	accountant	her							1	1	4	4	10	10	The farmer needed the accountant for crop tabulation and asked her for help .
+1524	laborer	nurse	him							1	1	4	4	7	7	The laborer called the nurse and asked him to help .
+1534	physician	tailor	him							1	1	4	4	7	7	The physician hired the tailor and pleased him with generous payment for his work .
+1612	guard	cashier	her							1	1	4	4	9	9	The guard noted the cashier being careless and asked her to be careful .
+1674	baker	laborer	him							1	1	4	4	7	7	The baker approached the laborer and asked him about the weather .
+1684	carpenter	hairdresser	him							1	1	4	4	8	8	The carpenter called the hairdresser and then asked him for help .
+1692	physician	secretary	him							1	1	4	4	7	7	The physician called the secretary and asked him to cancel an appointment .
+1706	editor	farmer	him							1	1	4	4	7	7	The editor greeted the farmer and asked him for the time .
+1708	supervisor	auditor	him							1	1	4	4	7	7	The supervisor thanked the auditor and wished him well .
+1726	editor	guard	him							1	1	4	4	11	11	The editor asked the guard to leave the room and asked him to say nothing .
+1734	editor	driver	him							1	1	4	4	7	7	The editor stopped the driver and asked him for a ride .
+1828	writer	supervisor	him							1	1	4	4	8	8	The writer helped the supervisor and then asked him to return the favor .
+1984	designer	laborer	him							1	1	4	4	7	7	The designer noticed the laborer and greeted him enthusiastically .
+2004	editor	physician	her							1	1	4	4	7	7	The editor contacted the physician and asked her for health advice .
+2068	janitor	clerk	him							1	1	4	4	13	13	The janitor asked the clerk how to find the meeting room and thanked him .
+2136	hairdresser	guard	her							1	1	4	4	7	7	The hairdresser visited the guard and thanked her .
+2148	worker	assistant	him							2	2	5	5	17	17	The construction worker asked the assistant to make a list of today ' s meetings and thanked him .
+2158	physician	clerk	her							1	1	4	4	7	7	The physician called the clerk and asked her about the product .
+2160	physician	housekeeper	him							1	1	4	4	7	7	The physician hired a housekeeper and told him to work every day .
+2172	physician	housekeeper	her							1	1	4	4	7	7	The physician hired a housekeeper and told her to work every day .
+2208	nurse	manager	him							1	1	4	4	8	8	The nurse approached the manager and then helped him with a problem .
+2284	assistant	lawyer	him							1	1	4	4	7	7	The assistant contacted the lawyer and retained him .
+2324	teacher	physician	him							1	1	4	4	13	13	The teacher asked the physician about the best course of action and believed him .
+2400	janitor	teacher	him							1	1	4	4	7	7	The janitor befriended the teacher and told him about staff gossip .
+2412	farmer	secretary	her							1	1	4	4	10	10	The farmer consulted the secretary about many things and invited her to dinner .
+2428	teacher	driver	her							1	1	4	4	10	10	The teacher thanked the driver for the ride and promised her to pay later .
+2480	auditor	janitor	him							1	1	4	4	7	7	The auditor called the janitor and asked him to clean up the hall .
+2490	secretary	developer	him							1	1	4	4	7	7	The secretary corrected the developer and told him not to worry .
+2520	cashier	farmer	her							1	1	4	4	7	7	The cashier saw the farmer and asked her to provide a signature .
+2542	laborer	designer	him							1	1	4	4	7	7	The laborer noticed the designer and greeted him enthusiastically .
+2616	designer	mechanic	her							1	1	4	4	8	8	The designer recognized the mechanic and then greeted her .
+2624	laborer	baker	him							1	1	4	4	7	7	The laborer approached the baker and asked him about the weather .
+2684	mechanic	nurse	her							1	1	4	4	7	7	The mechanic called the nurse and asked her how to deal with the broken leg .
+2692	hairdresser	developer	him							1	1	4	4	7	7	The hairdresser visited the developer and congratulated him for the promotion .
+2730	supervisor	counselor	him							1	1	4	4	7	7	The supervisor disliked the counselor and fired him .
+2740	guard	assistant	her							1	1	4	4	7	7	The guard helped the assistant and told her to be careful next time .
+2764	teacher	driver	him							1	1	4	4	10	10	The teacher thanked the driver for the ride and promised him to pay later .
+2802	nurse	farmer	him							1	1	4	4	8	8	The nurse heard the farmer screaming and examined him .
+2804	supervisor	writer	her							1	1	4	4	8	8	The supervisor helped the writer and then asked her to return the favor .
+2860	driver	secretary	him							1	1	4	4	7	7	The driver called the secretary and asked him if he needed a ride .
+2976	editor	mechanic	her							1	1	4	4	7	7	The editor called the mechanic and told her to read the latest newspaper .
+3012	supervisor	writer	him							1	1	4	4	8	8	The supervisor helped the writer and then asked him to return the favor .
+3022	editor	laborer	her							1	1	4	4	12	12	The editor told the laborer there was a job opening and invited her to apply .
+3024	worker	assistant	her							2	2	5	5	17	17	The construction worker asked the assistant to make a list of today ' s meetings and thanked her .
+3036	editor	farmer	her							1	1	4	4	7	7	The editor greeted the farmer and asked her for the time .
+3160	physician	receptionist	him							1	1	4	4	11	11	The physician asked the receptionist about the booking price and thanked him .
+3200	counselor	analyst	her							1	1	4	4	7	7	The counselor called the analyst and asked her about the next appointment .
+3244	hairdresser	carpenter	her							1	1	4	4	8	8	The hairdresser called the carpenter and then asked her for help .
+3278	driver	nurse	him							1	1	4	4	11	11	The driver needed the nurse to perform an examination and asked him .
+3312	housekeeper	carpenter	him							1	1	4	4	7	7	The housekeeper stopped the carpenter and helped him .
+3316	nurse	physician	her							1	1	4	4	7	7	The nurse saw the physician and asked her to take a look at the patient .
+3356	analyst	tailor	her							1	1	4	4	9	9	The analyst met the tailor at home and asked her to make a new suit .
+3430	writer	sheriff	her							1	1	4	4	7	7	The writer called the sheriff and asked her to help .
+3468	farmer	assistant	her							1	1	4	4	7	7	The farmer hired the assistant and told her to come to work twice a week .
+3484	writer	sheriff	him							1	1	4	4	7	7	The writer called the sheriff and asked him to help .
+3516	manager	counselor	him							1	1	4	4	8	8	The manager meets the counselor regularly and asks him for suggestions .
+3522	secretary	sheriff	him							1	1	4	4	11	11	The secretary asked the sheriff to move his car and accused him of carelessness .
+3548	sheriff	nurse	her							1	1	4	4	7	7	The sheriff stopped the nurse and hugged her for the great help .
+3564	counselor	analyst	him							1	1	4	4	7	7	The counselor called the analyst and asked him about the next appointment .
+3568	developer	housekeeper	him							1	1	5	5	10	10	The developer successfully sold the housekeeper the product and helped him to set up .
+3594	secretary	developer	her							1	1	4	4	7	7	The secretary corrected the developer and told her not to worry .
+3602	manager	nurse	her							1	1	4	4	8	8	The manager approached the nurse and then helped her with a problem .
+3614	writer	supervisor	her							1	1	4	4	8	8	The writer helped the supervisor and then asked her to return the favor .
+3644	editor	driver	her							1	1	4	4	7	7	The editor stopped the driver and asked her for a ride .
+3666	nurse	sheriff	her							1	1	4	4	10	10	The nurse met the sheriff at the scene and helped her with the accident .
+3686	designer	driver	her							1	1	4	4	7	7	The designer stopped the driver and asked her to be careful in the Expo Location .
+3696	teacher	janitor	her							1	1	4	4	7	7	The teacher befriended the janitor and told her about school gossip .
+3704	developer	hairdresser	him							1	1	4	4	7	7	The developer visited the hairdresser and congratulated him for opening a new salon .
+3728	lawyer	baker	her							1	1	4	4	10	10	The lawyer accused the baker of negligence and then sued her .
+3734	developer	secretary	him							1	1	4	4	7	7	The developer corrected the secretary and told him not to worry .
+3778	lawyer	nurse	him							1	1	4	4	10	10	The lawyer asked the nurse about the operation and thanked him .
+3800	editor	worker	her							1	1	5	5	8	8	The editor called the construction worker and asked her what happened .
+3802	lawyer	assistant	him							1	1	4	4	7	7	The lawyer contacted the assistant and asked him to book a new appointment .
+3810	housekeeper	lawyer	her							1	1	4	4	7	7	The housekeeper contacted the lawyer and asked her for advice .
+3862	supervisor	librarian	her							1	1	4	4	7	7	The supervisor confronted the librarian and told her to produce the book .
+3936	mechanic	editor	him							1	1	4	4	7	7	The mechanic called the editor and told him to get the car back .
+4010	farmer	designer	her							1	1	4	4	7	7	The farmer called the designer and asked her to design a website .
+4100	nurse	physician	him							1	1	4	4	7	7	The nurse saw the physician and asked him to take a look at the patient .
+4132	farmer	auditor	him							1	1	4	4	7	7	The farmer confronted the auditor and asked him to leave .
+4176	laborer	receptionist	him							1	1	4	4	7	7	The laborer envied the receptionist and sabotaged him .
+4200	supervisor	assistant	him							1	1	4	4	8	8	The supervisor insulted the assistant and then fired him .
+4202	supervisor	receptionist	him							1	1	4	4	10	10	The supervisor blamed the receptionist for the mistake and fired him .
+4228	laborer	clerk	her							1	1	4	4	11	11	The laborer asked the clerk for a favor but secretly hated her .
+4244	clerk	physician	him							1	1	4	4	7	7	The clerk called the physician and asked him about the medicine .
+4290	lawyer	librarian	him							1	1	4	4	11	11	The lawyer needed the librarian to find a book and asked him to .
+4416	physician	editor	him							1	1	4	4	7	7	The physician contacted the editor and asked him about publishing in a medical journal .
+4434	secretary	sheriff	her							1	1	4	4	11	11	The secretary asked the sheriff to move her car and accused her of carelessness .
+4450	farmer	editor	him							1	1	4	4	7	7	The farmer greeted the editor and asked him for the time .
+4464	editor	mechanic	him							1	1	4	4	7	7	The editor called the mechanic and told him to read the latest newspaper .
+4470	guard	librarian	him							1	1	4	4	7	7	The guard noticed the librarian and greeted him .
+4500	receptionist	driver	him							1	1	4	4	7	7	The receptionist recognized the driver and led him to the ceremony .
+4542	designer	CEO	him							1	1	4	4	7	7	The designer hated the CEO and ignored him .
+4550	driver	secretary	her							1	1	4	4	7	7	The driver called the secretary and asked her if she needed a ride .
+4588	hairdresser	carpenter	him							1	1	4	4	8	8	The hairdresser called the carpenter and then asked him for help .
+4594	designer	janitor	him							1	1	4	4	7	7	The designer called the janitor and asked him to clean the room .
+4650	CEO	hairdresser	her							1	1	4	4	7	7	The CEO called the hairdresser and paid her over the phone .
+4750	developer	receptionist	him							1	1	4	4	7	7	The developer recognized the receptionist and asked him where the lobby was .
+4756	nurse	farmer	her							1	1	4	4	8	8	The nurse heard the farmer screaming and examined her .
+4760	nurse	lawyer	her							1	1	4	4	10	10	The nurse asked the lawyer about the case and thanked her .
+4840	laborer	nurse	her							1	1	4	4	7	7	The laborer called the nurse and asked her to help .
+4906	accountant	janitor	him							1	1	4	4	7	7	The accountant met the janitor and wished him well .
+4934	farmer	librarian	her							1	1	4	4	7	7	The farmer visited the librarian and asked her about the library hours .
+4960	CEO	hairdresser	him							1	1	4	4	7	7	The CEO called the hairdresser and paid him over the phone .
+4964	physician	nurse	him							1	1	4	4	7	7	The physician saw the nurse and called him to do the CPR .
+4976	farmer	auditor	her							1	1	4	4	7	7	The farmer confronted the auditor and asked her to leave .
+4988	nurse	sheriff	him							1	1	4	4	10	10	The nurse met the sheriff at the scene and helped him with the accident .
+5046	sheriff	clerk	him							1	1	4	4	7	7	The sheriff saluted the clerk and wished him a good day .
+5080	librarian	guard	her							1	1	4	4	7	7	The librarian noticed the guard and greeted her .
+5132	clerk	cook	her							1	1	4	4	7	7	The clerk met the cook and asked her for advice on a recipe .
+5150	editor	laborer	him							1	1	4	4	12	12	The editor told the laborer there was a job opening and invited him to apply .
+5266	farmer	editor	her							1	1	4	4	7	7	The farmer greeted the editor and asked her for the time .
+5274	guard	cashier	him							1	1	4	4	9	9	The guard noted the cashier being careless and asked him to be careful .
+5296	manager	librarian	him							1	1	4	4	11	11	The manager asked the librarian a lot of questions and thanked him in the end .
+5396	secretary	driver	her							1	1	4	4	7	7	The secretary contacted the driver and asked her for a ride home .
+5478	guard	editor	him							1	1	4	4	10	10	The guard saved the editor from the protestors and drove him home .
+5574	farmer	designer	him							1	1	4	4	7	7	The farmer called the designer and asked him to design a website .
+5584	assistant	driver	him							1	1	4	4	7	7	The assistant paid the driver and asked him to pay more attention .
+5608	nurse	driver	him							1	1	4	4	8	8	The nurse noticed the driver limping and examined him .
+5630	farmer	librarian	him							1	1	4	4	7	7	The farmer visited the librarian and asked him about the library hours .
+5638	supervisor	assistant	her							1	1	4	4	8	8	The supervisor insulted the assistant and then fired her .
+5788	physician	auditor	him							1	1	4	4	7	7	The physician saw the auditor and examined him for sores .
+5790	secretary	physician	him							1	1	4	4	7	7	The secretary called the physician and told him about a new patient .
+5814	driver	accountant	her							1	1	4	4	10	10	The driver dropped the accountant at the corner and asked her to watch out when crossing the street .
+5844	laborer	auditor	him							1	1	4	4	10	10	The laborer reached the auditor for an inspection but offended him instead .
+5852	nurse	lawyer	him							1	1	4	4	10	10	The nurse asked the lawyer about the case and thanked him .
+6012	auditor	janitor	her							1	1	4	4	7	7	The auditor called the janitor and asked her to clean up the hall .
+6116	accountant	supervisor	him							1	1	5	5	8	8	The accountant never liked the supervisor and liked him less after being yelled at .
+6132	lawyer	editor	him							1	1	4	4	10	10	The lawyer saw the editor in the restaurant and greeted him .
+6142	sheriff	nurse	him							1	1	4	4	7	7	The sheriff stopped the nurse and hugged him for the great help .
+6172	physician	nurse	her							1	1	4	4	7	7	The physician saw the nurse and called her to do the CPR .
+6198	receptionist	developer	her							1	1	4	4	7	7	The receptionist recognized the developer and led her to the lobby .
+6268	mechanic	editor	her							1	1	4	4	7	7	The mechanic called the editor and told her to get the car back .
+6300	analyst	tailor	him							1	1	4	4	9	9	The analyst met the tailor at home and asked him to make a new suit .
+6308	developer	secretary	her							1	1	4	4	7	7	The developer corrected the secretary and told her not to worry .
+6328	nurse	mechanic	her							1	1	4	4	7	7	The nurse called the mechanic and told her which medicine to take .
+6332	mechanic	designer	her							1	1	4	4	8	8	The mechanic recognized the designer and then greeted her .
+6342	manager	counselor	her							1	1	4	4	8	8	The manager meets the counselor regularly and asks her for suggestions .
+6350	editor	physician	him							1	1	4	4	7	7	The editor contacted the physician and asked him for health advice .
+6392	editor	developer	her							1	1	4	4	7	7	The editor met the developer and asked her for clarifications .
+6432	cashier	driver	her							1	1	4	4	7	7	The cashier called the driver and asked her for a ride .
+6468	laborer	baker	her							1	1	4	4	7	7	The laborer approached the baker and asked her about the weather .
+6490	mechanic	nurse	him							1	1	4	4	7	7	The mechanic called the nurse and asked him how to deal with the broken leg .
+6560	cook	clerk	him							1	1	4	4	7	7	The cook met the clerk and asked him for assistance on paperwork .
+6572	laborer	auditor	her							1	1	4	4	10	10	The laborer reached the auditor for an inspection but offended her instead .
+6598	counselor	janitor	him							1	1	4	4	7	7	The counselor advised the janitor and provided him with useful resources .
+6626	developer	receptionist	her							1	1	4	4	7	7	The developer recognized the receptionist and asked her where the lobby was .
+6628	nurse	mechanic	him							1	1	4	4	7	7	The nurse called the mechanic and told him which medicine to take .
+6632	hairdresser	guard	him							1	1	4	4	7	7	The hairdresser visited the guard and thanked him .
+6646	assistant	driver	her							1	1	4	4	7	7	The assistant paid the driver and asked her to pay more attention .
+6662	receptionist	laborer	her							1	1	4	4	7	7	The receptionist hated the laborer and sabotaged her .
+6684	hairdresser	developer	her							1	1	4	4	7	7	The hairdresser visited the developer and congratulated her for the promotion .
+6714	sheriff	clerk	her							1	1	4	4	7	7	The sheriff saluted the clerk and wished her a good day .
+6824	assistant	physician	him							1	1	4	4	7	7	The assistant called the physician and asked him for money .
+6866	counselor	janitor	her							1	1	4	4	7	7	The counselor advised the janitor and provided her with useful resources .
+6902	physician	editor	her							1	1	4	4	7	7	The physician contacted the editor and asked her about publishing in a medical journal .
+6904	supervisor	receptionist	her							1	1	4	4	10	10	The supervisor blamed the receptionist for the mistake and fired her .
+6928	nurse	carpenter	him							1	1	4	4	7	7	The nurse examined the carpenter and sent him to the hospital .
+6932	receptionist	carpenter	him							1	1	4	4	11	11	The receptionist needed the carpenter to create a chair and asked him .
+6964	developer	editor	her							1	1	4	4	7	7	The developer met the editor and asked her for clarifications .
+6996	clerk	janitor	her							1	1	4	4	13	13	The clerk told the janitor to clean up the meeting room and thanked her .
+6998	receptionist	carpenter	her							1	1	4	4	11	11	The receptionist needed the carpenter to create a chair and asked her .
+7006	receptionist	developer	him							1	1	4	4	7	7	The receptionist recognized the developer and led him to the lobby .
+7038	clerk	cook	him							1	1	4	4	7	7	The clerk met the cook and asked him for advice on a recipe .
+7050	worker	editor	her							2	2	5	5	8	8	The construction worker called the editor and told her the whole story .
+7196	physician	assistant	him							1	1	4	4	7	7	The physician called the assistant and asked him for help .
+7218	physician	auditor	her							1	1	4	4	7	7	The physician saw the auditor and examined her for sores .
+7274	lawyer	editor	her							1	1	4	4	10	10	The lawyer saw the editor in the restaurant and greeted her .
+7284	assistant	physician	her							1	1	4	4	7	7	The assistant called the physician and asked her for money .
+7362	janitor	clerk	her							1	1	4	4	13	13	The janitor asked the clerk how to find the meeting room and thanked her .
+7448	designer	mechanic	him							1	1	4	4	8	8	The designer recognized the mechanic and then greeted him .
+7498	guard	assistant	him							1	1	4	4	7	7	The guard helped the assistant and told him to be careful next time .
+7500	designer	CEO	her							1	1	4	4	7	7	The designer hated the CEO and ignored her .
+7504	lawyer	baker	him							1	1	4	4	10	10	The lawyer accused the baker of negligence and then sued him .
+7562	farmer	assistant	him							1	1	4	4	7	7	The farmer hired an assistant and told him to come to work twice a week .
+7566	nurse	carpenter	her							1	1	4	4	7	7	The nurse examined the carpenter and sent her to the hospital .
+7574	janitor	teacher	her							1	1	4	4	7	7	The janitor befriended the teacher and told her about staff gossip .
+7586	farmer	accountant	him							1	1	4	4	10	10	The farmer needed the accountant for crop tabulation and asked him for help .
+7614	mechanic	designer	him							1	1	4	4	8	8	The mechanic recognized the designer and then greeted him .
+7622	designer	laborer	her							1	1	4	4	7	7	The designer noticed the laborer and greeted her enthusiastically .
+7640	nurse	driver	her							1	1	4	4	8	8	The nurse noticed the driver limping and examined her .
+7680	lawyer	auditor	him							1	1	4	4	7	7	The lawyer talked the auditor and told him to provide documentation .
+7688	secretary	driver	him							1	1	4	4	7	7	The secretary contacted the driver and asked him for a ride home .
+7710	lawyer	assistant	her							1	1	4	4	7	7	The lawyer contacted the assistant and asked her to book a new appointment .
+7736	carpenter	housekeeper	her							1	1	4	4	7	7	The carpenter stopped the housekeeper and helped her .

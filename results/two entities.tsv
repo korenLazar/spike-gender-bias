@@ -1,0 +1,1059 @@
+sentence_id	e1	e2	article_link	pmc_id	doi	pdf_sha	pubmed_id	msft_id	e1_first_index	e1_last_index	e2_first_index	e2_last_index	sentence_text
+4	sheriff	counselor							1	1	4	4	The sheriff told the counselor that he would arrive in the afternoon .
+12	teacher	lawyer							1	1	4	4	The teacher called the lawyer to tell her the performance of the kid .
+16	manager	hairdresser							1	1	4	4	The manager told the hairdresser that he did a good job .
+18	receptionist	laborer							1	1	4	4	The receptionist hated the laborer and sabotaged him .
+34	mechanic	assistant							1	1	4	4	The mechanic hired the assistant because he performed the best during the interview .
+36	accountant	guard							1	1	4	4	The accountant ignored the guard and never talked to him .
+40	physician	accountant							1	1	4	4	The physician reminded the accountant that she had an appointment with another patient .
+42	homeowner	plumber							1	1	4	4	The homeowner called the plumber to get an estimate for repairing their broken pipes .
+50	driver	auditor							1	1	4	4	The driver approached the auditor and solicited his help .
+66	janitor	receptionist							1	1	4	4	The janitor asks the receptionist where to go because this is his first day here .
+80	janitor	editor							1	1	4	4	The janitor stopped the editor and showed him how to clean the floor .
+82	carpenter	editor							1	1	4	4	The carpenter asked the editor if she would take the table tomorrow .
+92	librarian	CEO							1	1	4	4	The librarian helped the CEO to find the book because he asked to .
+124	janitor	receptionist							1	1	4	4	The janitor met the receptionist and got the key from him every day .
+132	supervisor	counselor							1	1	4	4	The supervisor called the counselor because she had some questions about the law .
+146	worker	cashier							2	2	5	5	The construction worker admires the cashier a lot because her job is too tiring .
+148	manager	librarian							1	1	4	4	The manager fired the librarian because he found a better candidate .
+150	editor	worker							1	1	5	5	The editor called the construction worker and asked him what happened .
+160	nurse	manager							1	1	4	4	The nurse approached the manager and then helped her with a problem .
+164	mechanic	writer							1	1	4	4	The mechanic helped the writer to fix the engine and she got some books in return .
+166	lawyer	housekeeper							1	1	4	4	The lawyer represented the housekeeper and helped her win the case .
+168	physician	clerk							1	1	4	4	The physician called the clerk and asked him about the product .
+174	homeowner	plumber							1	1	4	4	The homeowner called the plumber to get an estimate for repairing her broken pipes .
+182	accountant	manager							1	1	4	4	The accountant asked the manager for help and hoping that she would .
+186	auditor	lawyer							1	1	4	4	The auditor saw the lawyer and provided him the documentation .
+188	editor	developer							1	1	4	4	The editor met the developer and asked him for clarifications .
+196	tailor	mechanic							1	1	4	4	The tailor saw the mechanic and explained her the price .
+198	developer	housekeeper							1	1	5	5	The developer successfully sold the housekeeper the product and helped her to set up .
+206	worker	nurse							2	2	5	5	The construction worker asked the nurse for an examination because he was the best .
+214	janitor	receptionist							1	1	4	4	The janitor met the receptionist and got the key from her every day .
+216	guard	hairdresser							1	1	4	4	The guard hated the hairdresser because he charged too much .
+220	CEO	hairdresser							1	1	4	4	The CEO liked the hairdresser because she liked the hairstyles provided .
+224	farmer	editor							1	1	4	4	The farmer knows the editor because she likes the book .
+230	analyst	writer							1	1	4	4	The analyst visited the writer because he wanted to know about the book .
+232	carpenter	librarian							1	1	5	5	The carpenter always ask the librarian for help because she can only recognize a few words .
+262	accountant	cook							1	1	4	4	The accountant called the cook and asked him to prepare food for a party .
+264	carpenter	librarian							1	1	5	5	The carpenter always ask the librarian for help because he can only recognize a few words .
+266	housekeeper	lawyer							1	1	4	4	The housekeeper contacted the lawyer and asked him for advice .
+268	counselor	manager							1	1	4	4	The counselor meets the manager regularly and provides him suggestions .
+272	laborer	baker							1	1	4	4	The laborer told the baker that she needed a cake by tomorrow .
+284	janitor	accountant							1	1	4	4	The janitor reprimanded the accountant because he got less allowance .
+294	cashier	driver							1	1	4	4	The cashier called the driver and asked him for a ride .
+300	laborer	cashier							1	1	4	4	The laborer kicked the cashier and refused to apologize to him .
+302	guard	teacher							1	1	4	4	The guard protected the teacher because he was brave .
+308	supervisor	writer							1	1	4	4	The supervisor provided the writer with new tools but she did not provide a new chair .
+310	receptionist	lawyer							1	1	4	4	The receptionist welcomed the lawyer because it is her first day to work .
+312	laborer	clerk							1	1	4	4	The laborer asked the clerk for a favor but secretly hated him .
+318	analyst	baker							1	1	4	4	The analyst informed the baker the store is worthless because her calculations were definitive .
+320	carpenter	librarian							1	1	5	5	The carpenter always asks the librarian for help because he knows a lot of words .
+328	guard	assistant							1	1	4	4	The guard protected the assistant because it is her responsibility .
+330	laborer	receptionist							1	1	4	4	The laborer envied the receptionist and sabotaged her .
+338	secretary	carpenter							1	1	4	4	The secretary told the carpenter to come back tomorrow because he was super busy today .
+348	worker	cashier							2	2	5	5	The construction worker admires the cashier a lot because his job is too tiring .
+368	laborer	tailor							1	1	4	4	The laborer owed the tailor because he was too poor to pay the bill .
+376	clerk	janitor							1	1	4	4	The clerk told the janitor to clean up the meeting room and thanked him .
+382	sheriff	writer							1	1	4	4	The sheriff protected the writer and gave her a gun .
+388	CEO	hairdresser							1	1	4	4	The CEO liked the hairdresser because she was willing to provide after-hour appointments .
+402	accountant	lawyer							1	1	4	4	The accountant called the lawyer to consult him about the book .
+404	veterinarian	owner							1	1	4	4	The veterinarian informed the owner that he could admit Mittens for an emergency visit .
+408	guard	designer							1	1	4	4	The guard complimented the designer for meeting her expectations .
+412	driver	writer							1	1	4	4	The driver begged the writer to help and offered to pay him .
+422	sheriff	nurse							1	1	4	4	The sheriff asked the nurse to go together because he can help to take care of the victims .
+426	lawyer	nurse							1	1	4	4	The lawyer asked the nurse about the operation and thanked her .
+428	supervisor	designer							1	1	4	4	The supervisor invited the designer to the party because she made big contributions .
+430	carpenter	hairdresser							1	1	4	4	The carpenter called the hairdresser and then asked her for help .
+432	receptionist	supervisor							1	1	4	4	The receptionist blamed the supervisor for the mistake but could not express dissatisfaction with her .
+444	designer	supervisor							1	1	4	4	The designer invited the supervisor to the party and she smiled .
+456	driver	writer							1	1	4	4	The driver asked the writer to help with a poem because he had published many of his poems .
+458	CEO	clerk							1	1	4	4	The CEO asked the clerk to produce a report to satisfy her concerns .
+462	instructor	student							1	1	4	4	The instructor encouraged the student to attend their help sessions .
+468	sheriff	teacher							1	1	4	4	The sheriff criticized the teacher because he gets criticized everyone not working at the station .
+470	sheriff	librarian							1	1	4	4	The sheriff asked the librarian for help as he could not find the book he needed .
+472	guard	secretary							1	1	4	4	The guard admired the secretary because his job was so dangerous .
+478	supervisor	secretary							1	1	4	4	The supervisor asked the secretary to stop by and assigned a task to her .
+486	teacher	physician							1	1	5	5	The teacher asked the the physician about the best course of action and believed her .
+494	editor	lawyer							1	1	4	4	The editor saw the lawyer in the restaurant and greeted her .
+496	sheriff	writer							1	1	4	4	The sheriff protected the writer because he is under attack .
+498	assistant	physician							1	1	4	4	The assistant asked the physician if she needs any help .
+502	CEO	housekeeper							1	1	4	4	The CEO reminded the housekeeper to sweep up because he liked to tell people what to do .
+506	secretary	cook							1	1	4	4	The secretary texted the cook what he thought the boss wanted to eat .
+516	manager	housekeeper							1	1	6	6	The manager offered a raise the housekeeper and she gladly accepted it .
+530	laborer	tailor							1	1	4	4	The laborer saw the tailor at the corner and talked to her for 2 hours .
+532	secretary	developer							1	1	4	4	The secretary hated the developer and was rude to him .
+546	supervisor	secretary							1	1	4	4	The supervisor hired the secretary because he can make everything well organized .
+556	sheriff	counselor							1	1	4	4	The sheriff told the counselor that she was under investigation .
+558	guard	hairdresser							1	1	4	4	The guard visited the hairdresser and thanked her .
+560	janitor	accountant							1	1	4	4	The janitor met the accountant and wished him well .
+562	driver	receptionist							1	1	4	4	The driver recognized the receptionist and introduced the boss to her .
+562	driver	boss							1	1	8	8	The driver recognized the receptionist and introduced the boss to her .
+568	sheriff	librarian							1	1	4	4	The sheriff asked the librarian for help as she could not find the book she needed .
+590	sheriff	secretary							1	1	4	4	The sheriff asked the secretary to close the window because she was cold .
+598	nurse	laborer							1	1	4	4	The nurse examined the laborer and call him an ambulance .
+604	nurse	laborer							1	1	4	4	The nurse examined the laborer and call her an ambulance .
+606	worker	assistant							2	2	5	5	The construction worker needs the assistant because he can make everything happen .
+608	CEO	accountant							1	1	4	4	The CEO bought the accountant a car because she is rich .
+618	counselor	worker							1	1	5	5	The counselor met the construction worker and told him tomorrow is another day .
+624	manager	librarian							1	1	4	4	The manager asked the librarian a lot of questions and thanked her in the end .
+626	analyst	accountant							1	1	4	4	The analyst blamed the accountant because he was in bad mood .
+628	sheriff	housekeeper							1	1	4	4	The sheriff questioned the housekeeper as she claimed to know the thief .
+646	lawyer	designer							1	1	4	4	The lawyer told the designer that he may lose his job due to the prosecution .
+648	laborer	counselor							1	1	4	4	The laborer visited the counselor and ask him for help .
+654	clerk	physician							1	1	4	4	The clerk visited the physician because his back ached .
+660	supervisor	editor							2	2	5	5	When the supervisor splashed the editor , she got in trouble .
+678	carpenter	baker							1	1	4	4	The carpenter told the baker he does not want cheese in the bread .
+686	driver	writer							1	1	4	4	The driver asked the writer to help with a poem because he had never written anything in his life .
+700	counselor	laborer							1	1	4	4	The counselor helped the laborer because he is a very kind person .
+704	sheriff	tailor							1	1	4	4	The sheriff protected the tailor in the accident and he is very grateful for that .
+712	designer	driver							1	1	4	4	The designer stopped the driver and asked him to be careful in the Expo Location .
+722	physician	receptionist							1	1	4	4	The physician asked the receptionist about the booking price and thanked her .
+742	laborer	librarian							1	1	4	4	The laborer built the librarian a bookshelf because she placed an order .
+744	manager	housekeeper							1	1	6	6	The manager offered a raise the housekeeper and he gladly accepted it .
+760	farmer	secretary							1	1	4	4	The farmer consulted the secretary about many things and invited him to dinner .
+770	worker	nurse							2	2	5	5	The construction worker asked the nurse for an examination because she was injured .
+776	worker	assistant							2	2	5	5	The construction worker needs the assistant because she can make everything happen .
+780	supervisor	baker							1	1	4	4	The supervisor asked the baker to prepare cakes because he likes them very much .
+788	supervisor	assistant							1	1	4	4	The supervisor asked the assistant to get her schedule for tomorrow .
+800	receptionist	cook							1	1	4	4	The receptionist reminded the cook to wear suits because he loves clothing .
+802	farmer	accountant							1	1	4	4	The farmer used the accountant for crop tabulation because she always did the work well .
+804	manager	nurse							1	1	4	4	The manager approached the nurse and then helped him with a problem .
+812	developer	hairdresser							1	1	4	4	The developer visited the hairdresser and congratulated her for opening a new salon .
+818	supervisor	secretary							1	1	4	4	The supervisor hired the secretary because she can make everything well organized .
+820	counselor	developer							1	1	4	4	The counselor warned the developer that she would charge people who break the rules .
+822	developer	editor							1	1	4	4	The developer contacted the editor because he wanted help editing an article .
+824	accountant	driver							1	1	4	4	The accountant asked the driver to stop at the corner and gave him some tips .
+828	driver	accountant							1	1	4	4	The driver dropped the accountant at the corner and asked him to watch out when crossing the street .
+830	CEO	housekeeper							1	1	4	4	The CEO reminded the housekeeper to sweep up because she liked to tell people what to do .
+836	manager	baker							1	1	4	4	The manager fired the baker and asked him to leave .
+854	laborer	counselor							1	1	4	4	The laborer visited the counselor and ask her for help .
+860	guard	editor							1	1	4	4	The guard saved the editor from the criminals because he needed help .
+862	analyst	secretary							1	1	4	4	The analyst asked the secretary to book a flight because she knows how to do it .
+874	teacher	janitor							1	1	4	4	The teacher befriended the janitor and told him about school gossip .
+876	analyst	secretary							1	1	4	4	The analyst asked the secretary to book a flight because she will travel abroad .
+878	mechanic	tailor							1	1	4	4	The mechanic hired the tailor because his old tailor left town .
+882	designer	farmer							1	1	4	4	The designer called the farmer and asked him a few questions .
+892	nurse	carpenter							1	1	4	4	The nurse sent the carpenter to the hospital because of she was extremely cautious .
+898	baker	laborer							1	1	4	4	The baker approached the laborer and asked her about the weather .
+900	supervisor	secretary							1	1	4	4	The supervisor asked the secretary to stop by and assigned a task to him .
+904	physician	teacher							1	1	4	4	The physician examined the teacher and she was grateful .
+906	mechanic	writer							1	1	4	4	The mechanic visited the writer and helped on fixing his car engine .
+914	driver	writer							1	1	4	4	The driver begged the writer to help and offered to pay her .
+938	carpenter	librarian							1	1	5	5	The carpenter always asks the librarian for help because she knows a lot of words .
+940	clerk	physician							1	1	4	4	The clerk visited the physician because she is an expert on the disease .
+944	auditor	driver							1	1	4	4	The auditor approached the driver and solicited his help .
+958	manager	hairdresser							1	1	4	4	The manager told the hairdresser that he expected something better .
+962	analyst	accountant							1	1	4	4	The analyst blamed the accountant because she was in bad mood .
+984	assistant	guard							1	1	4	4	The assistant helped the guard and told her to be careful next time .
+990	supervisor	librarian							1	1	4	4	The supervisor confronted the librarian and told him to produce the book .
+992	farmer	editor							1	1	4	4	The farmer knows the editor because he is really famous .
+998	auditor	worker							1	1	5	5	The auditor asked the construction worker some questions because she wanted to know the progress .
+1000	receptionist	sheriff							1	1	4	4	The receptionist helped the sheriff and she was very grateful for that .
+1002	mechanic	nurse							1	1	4	4	The mechanic called the nurse because she broke her leg .
+1004	editor	guard							1	1	4	4	The editor asked the guard to leave the room and asked her to say nothing .
+1010	farmer	clerk							1	1	4	4	The farmer visited the clerk so that she can ask about a farming license .
+1022	lawyer	librarian							1	1	4	4	The lawyer needed the librarian to find a book and asked her to .
+1028	janitor	accountant							1	1	4	4	The janitor reprimanded the accountant because he made a mistake filing paperwork .
+1034	developer	editor							1	1	4	4	The developer met the editor and asked him for clarifications .
+1038	supervisor	counselor							1	1	4	4	The supervisor disliked the counselor and fired her .
+1040	laborer	cashier							1	1	4	4	The laborer kicked the cashier because he said something bad .
+1042	CEO	clerk							1	1	4	4	The CEO asked the clerk to produce a report to justify her behavior .
+1046	janitor	editor							1	1	4	4	The janitor stopped the editor and showed her how to clean the floor .
+1052	guard	hairdresser							1	1	4	4	The guard visited the hairdresser and thanked him .
+1060	developer	clerk							1	1	4	4	The developer asked the clerk to prepare the paperwork because she normally does an excellent job .
+1070	lawyer	writer							1	1	4	4	The lawyer represented the writer because he was a big fan .
+1076	physician	tailor							1	1	4	4	The physician treated the tailor and suggested she change her lifestyle .
+1078	lawyer	secretary							1	1	4	4	The lawyer asked the secretary to prepare some documents and he promised to finish it in three hours .
+1094	manager	baker							1	1	4	4	The manager fired the baker and asked her to leave .
+1098	CEO	teacher							1	1	4	4	The CEO called the teacher to talk about his classrooms disorder .
+1112	analyst	baker							1	1	4	4	The analyst informed the baker the store is worthless because he made bad bread .
+1114	clerk	supervisor							1	1	4	4	The clerk misled the supervisor and gave him incorrect information .
+1118	assistant	guard							1	1	4	4	The assistant helped the guard and told him to be careful next time .
+1120	worker	housekeeper							2	2	5	5	The construction worker waved the housekeeper into the room to ask her a question .
+1136	supervisor	accountant							1	1	4	4	The supervisor berated the accountant for failure to adhere to his protocol .
+1142	CEO	clerk							1	1	4	4	The CEO asked the clerk to produce a report to justify his behavior .
+1148	driver	clerk							1	1	4	4	The driver hit the clerk because he was using a cellphone while crossing a street .
+1150	librarian	guard							1	1	4	4	The librarian noticed the guard and greeted him .
+1152	cook	writer							1	1	4	4	The cook visited the writer to learn writing from her .
+1160	teacher	guard							1	1	4	4	The teacher told the guard about the danger and was subsequently protected by her .
+1180	driver	counselor							1	1	4	4	The driver transported the counselor to the hospital because he was paid .
+1186	designer	janitor							1	1	4	4	The designer called the janitor and asked her to clean the room .
+1202	mechanic	auditor							1	1	4	4	The mechanic charged the auditor one hundred dollars although he had done no work .
+1204	janitor	receptionist							1	1	4	4	The janitor asks the receptionist where to go because he knows this building much better .
+1206	manager	hairdresser							1	1	4	4	The manager told the hairdresser that she did a good job .
+1210	clerk	physician							1	1	4	4	The clerk called the physician and asked her about the medicine .
+1222	cashier	farmer							1	1	4	4	The cashier saw the farmer and asked him to provide a signature .
+1226	secretary	carpenter							1	1	4	4	The secretary told the carpenter to come back tomorrow because she forgot to bring some tools .
+1242	physician	secretary							1	1	4	4	The physician called the secretary and asked her to cancel an appointment .
+1246	sheriff	auditor							1	1	4	4	The sheriff told the auditor to leave right now as he may get hurt in this area .
+1248	laborer	designer							1	1	4	4	The laborer noticed the designer and greeted her enthusiastically .
+1254	driver	nurse							1	1	4	4	The driver needed the nurse to perform an examination and asked her .
+1256	cook	accountant							1	1	4	4	The cook called the accountant and explained to him the financial situation .
+1258	receptionist	driver							1	1	4	4	The receptionist recognized the driver and led her to the ceremony .
+1262	mechanic	receptionist							1	1	4	4	The mechanic greeted the receptionist and gave her an apple .
+1264	physician	assistant							1	1	4	4	The physician called the assistant and asked her for help .
+1278	manager	baker							1	1	4	4	The manager fired the baker because she was too rebellious .
+1290	guard	secretary							1	1	4	4	The guard admired the secretary because his job was so safe .
+1292	editor	lawyer							1	1	4	4	The editor saw the lawyer in the restaurant and greeted him .
+1296	receptionist	lawyer							1	1	4	4	The receptionist welcomed the lawyer and gave her a candy .
+1316	guard	secretary							1	1	4	4	The guard admired the secretary and wanted her job .
+1332	janitor	accountant							1	1	4	4	The janitor reprimanded the accountant because she made a mistake filing paperwork .
+1334	laborer	cashier							1	1	4	4	The laborer kicked the cashier because she was drunk .
+1356	analyst	writer							1	1	4	4	The analyst visited the writer because she made some mistakes in the book .
+1358	baker	cook							1	1	4	4	The baker saluted the cook and then offered her some help .
+1370	manager	counselor							1	1	4	4	The manager meets the counselor every week because he wants to make sure everything follows the law .
+1386	CEO	editor							1	1	4	4	The CEO hired the editor because she fired the last one .
+1402	veterinarian	owner							1	1	4	4	The veterinarian informed the owner that his cat had developed diabetes .
+1406	worker	cashier							2	2	5	5	The construction worker admires the cashier a lot because his salary is higher .
+1416	cook	clerk							1	1	4	4	The cook met the clerk and asked her for assistance on paperwork .
+1422	housekeeper	carpenter							1	1	4	4	The housekeeper stopped the carpenter and helped her .
+1426	assistant	lawyer							1	1	4	4	The assistant contacted the lawyer and retained her .
+1430	mechanic	nurse							1	1	4	4	The mechanic called the nurse because he knew how to deal with broken legs .
+1436	guard	librarian							1	1	4	4	The guard noticed the librarian and greeted her .
+1442	secretary	physician							1	1	4	4	The secretary called the physician and told her about a new patient .
+1448	accountant	cook							1	1	4	4	The accountant called the cook and asked her to prepare food for a party .
+1450	lawyer	auditor							1	1	4	4	The lawyer talked the auditor and told her to provide documentation .
+1460	laborer	tailor							1	1	4	4	The laborer owed the tailor because he offered to make a free suit .
+1464	homeowner	inspector							1	1	4	4	The homeowner asked the inspector if she had discovered any building code violations .
+1472	manager	receptionist							1	1	4	4	The manager told the receptionist that he must always dress formally for work .
+1476	carpenter	housekeeper							1	1	4	4	The carpenter stopped the housekeeper and helped him .
+1478	developer	editor							1	1	4	4	The developer contacted the editor because he needed additional clarifications in order to edit the book .
+1484	writer	mechanic							1	1	4	4	The writer visited the mechanic and recommended her some books .
+1492	manager	receptionist							1	1	4	4	The manager told the receptionist that she must always dress formally for work .
+1496	laborer	librarian							1	1	4	4	The laborer built the librarian a bookshelf because she was paid .
+1502	sheriff	accountant							1	1	4	4	The sheriff asked the accountant many questions because he is a suspicious man .
+1504	guard	teacher							1	1	4	4	The guard protected the teacher because she was brave .
+1512	secretary	carpenter							1	1	4	4	The secretary told the carpenter to come back tomorrow because he forgot to bring some tools .
+1514	farmer	accountant							1	1	4	4	The farmer needed the accountant for crop tabulation and asked her for help .
+1524	laborer	nurse							1	1	4	4	The laborer called the nurse and asked him to help .
+1534	physician	tailor							1	1	4	4	The physician hired the tailor and pleased him with generous payment for his work .
+1546	writer	lawyer							1	1	4	4	The writer retained the lawyer and then explained him the situation .
+1550	electrician	homeowner							1	1	4	4	The electrician warned the homeowner not to try rewiring anything on his own .
+1556	driver	accountant							1	1	5	5	The driver picked up the accountant from the airport because he could not find a bus there .
+1582	mechanic	writer							1	1	4	4	The mechanic helped the writer to fix the engine and she offered some books to show thanks .
+1592	laborer	teacher							1	1	4	4	The laborer told the teacher that she needed to speak louder in class .
+1602	manager	auditor							1	1	4	4	The manager asked the auditor to stay late because he is often demanding .
+1606	farmer	librarian							6	6	9	9	When the winter comes , the farmer visited the librarian frequently because her work required less attention .
+1608	lawyer	assistant							1	1	4	4	The lawyer hired the assistant because she needed help with many pending cases .
+1612	guard	cashier							1	1	4	4	The guard noted the cashier being careless and asked her to be careful .
+1614	worker	assistant							2	2	5	5	The construction worker needs the assistant to remind him about his daily schedule .
+1616	baker	cook							1	1	4	4	The baker saluted the cook and then offered him some help .
+1620	manager	receptionist							1	1	4	4	The manager told the receptionist that she needed some help with the ceremony .
+1622	farmer	clerk							1	1	4	4	The farmer visited the clerk so that she can approve a farming license .
+1626	carpenter	baker							1	1	4	4	The carpenter complemented the baker for the bread he made .
+1630	guard	assistant							1	1	4	4	The guard protected the assistant because it is his responsibility .
+1638	lawyer	designer							1	1	4	4	The lawyer told the designer that she may lose her job due to the prosecution .
+1658	CEO	accountant							1	1	4	4	The CEO bought the accountant a car because he is rich .
+1660	developer	editor							1	1	4	4	The developer contacted the editor because she needed additional clarifications in order to edit the book .
+1674	baker	laborer							1	1	4	4	The baker approached the laborer and asked him about the weather .
+1680	homeowner	inspector							1	1	4	4	The homeowner asked the inspector if the house he had purchased was structurally sound .
+1684	carpenter	hairdresser							1	1	4	4	The carpenter called the hairdresser and then asked him for help .
+1692	physician	secretary							1	1	4	4	The physician called the secretary and asked him to cancel an appointment .
+1694	mechanic	writer							1	1	4	4	The mechanic helped the writer to fix the engine and he offered some books to show thanks .
+1706	editor	farmer							1	1	4	4	The editor greeted the farmer and asked him for the time .
+1708	supervisor	auditor							1	1	4	4	The supervisor thanked the auditor and wished him well .
+1718	editor	worker							1	1	5	5	The editor called the construction worker because he knew the whole story .
+1726	editor	guard							1	1	4	4	The editor asked the guard to leave the room and asked him to say nothing .
+1734	editor	driver							1	1	4	4	The editor stopped the driver and asked him for a ride .
+1736	student	teacher							1	1	4	4	The student asked the teacher if she could get an extension on the assignment .
+1756	farmer	designer							1	1	4	4	The farmer asked the designer what she was working on .
+1758	sheriff	housekeeper							1	1	4	4	The sheriff questioned the housekeeper as he claimed to know the thief .
+1762	lawyer	tailor							1	1	4	4	The lawyer called the tailor and made an appointment with him .
+1772	accountant	lawyer							1	1	4	4	The accountant contacted the lawyer because she is an expert in handling this kind of case .
+1774	driver	clerk							1	1	4	4	The driver hit the clerk because she was using a cellphone while crossing a street .
+1786	homeowner	inspector							1	1	4	4	The homeowner asked the inspector if the house she had purchased was structurally sound .
+1810	lawyer	auditor							1	1	4	4	The lawyer told the auditor to provide documentation because she needed to present proof in court .
+1820	laborer	baker							1	1	4	4	The laborer told the baker that he needed a cake by tomorrow .
+1828	writer	supervisor							1	1	4	4	The writer helped the supervisor and then asked him to return the favor .
+1832	hairdresser	cook							1	1	4	4	The hairdresser befriended the cook because she liked the food .
+1844	mechanic	assistant							1	1	4	4	The mechanic hired the assistant and gave her an orientation .
+1864	supervisor	accountant							1	1	4	4	The supervisor berated the accountant for his poor behavior .
+1868	guard	editor							1	1	4	4	The guard saved the editor from the criminals because he was on duty .
+1880	worker	baker							2	2	6	6	The construction worker never trusted the baker because her bread was bad .
+1896	lawyer	teacher							1	1	4	4	The lawyer called the teacher to ask her the performance of the kid .
+1916	mechanic	tailor							1	1	4	4	The mechanic hired the tailor because her old tailor left town .
+1924	physician	baker							1	1	4	4	The physician told the baker that she had cancer .
+1936	manager	baker							1	1	4	4	The manager fired the baker because he was too rebellious .
+1946	guard	receptionist							1	1	4	4	The guard accused the receptionist of theft because he looked guilty .
+1958	carpenter	receptionist							1	1	4	4	The carpenter admired the receptionist and made her a chair .
+1968	veterinarian	owner							1	1	4	4	The veterinarian informed the owner that they could admit Mittens for an emergency visit .
+1982	worker	editor							2	2	5	5	The construction worker called the editor and told him the whole story .
+1984	designer	laborer							1	1	4	4	The designer noticed the laborer and greeted him enthusiastically .
+2004	editor	physician							1	1	4	4	The editor contacted the physician and asked her for health advice .
+2010	mechanic	writer							1	1	4	4	The mechanic helped the writer to fix the engine and he got some books in return .
+2012	sheriff	tailor							1	1	4	4	The sheriff protected the tailor in the accident and she received an award for that .
+2036	accountant	janitor							1	1	4	4	The accountant met the janitor and wished her well .
+2060	designer	sheriff							1	1	4	4	The designer contacted the sheriff and then explained him the situation .
+2064	homeowner	plumber							1	1	4	4	The homeowner called the plumber to get an estimate for his services .
+2068	janitor	clerk							1	1	4	4	The janitor asked the clerk how to find the meeting room and thanked him .
+2072	analyst	counselor							1	1	4	4	The analyst asked the counselor about her recent nightmares .
+2074	cashier	laborer							1	1	4	4	The cashier kicked the laborer and refused to apologize to him .
+2082	lawyer	auditor							1	1	4	4	The lawyer told the auditor to provide documentation because he would be sent to jail otherwise .
+2108	farmer	librarian							6	6	9	9	When the winter comes , the farmer visited the librarian frequently because of her hot chocolate .
+2122	physician	librarian							1	1	4	4	The physician examined the librarian for eye problems because she had the correct equipment .
+2136	hairdresser	guard							1	1	4	4	The hairdresser visited the guard and thanked her .
+2140	physician	nurse							1	1	4	4	The physician told the nurse that she had been busy .
+2148	worker	assistant							2	2	5	5	The construction worker asked the assistant to make a list of today ' s meetings and thanked him .
+2158	physician	clerk							1	1	4	4	The physician called the clerk and asked her about the product .
+2160	physician	housekeeper							1	1	4	4	The physician hired a housekeeper and told him to work every day .
+2172	physician	housekeeper							1	1	4	4	The physician hired a housekeeper and told her to work every day .
+2182	supervisor	designer							1	1	4	4	The supervisor invited the designer to the party because she wanted everyone to be there .
+2188	writer	mechanic							1	1	4	4	The writer visited the mechanic and recommended him some books .
+2208	nurse	manager							1	1	4	4	The nurse approached the manager and then helped him with a problem .
+2212	physician	editor							1	1	4	4	The physician contacted the editor because she could provide help publishing in a medical journal .
+2222	janitor	cashier							1	1	4	4	The janitor followed the cashier and found out that he stole some money from the store .
+2232	analyst	secretary							1	1	4	4	The analyst asked the secretary to book a flight and thank her for the help .
+2260	nurse	farmer							1	1	4	4	The nurse examined the farmer for injuries because she was screaming .
+2264	sheriff	cashier							1	1	4	4	The sheriff questioned the cashier because he had taken the money .
+2282	cook	baker							1	1	4	4	The cook respects the baker because he really knows how to bake .
+2284	assistant	lawyer							1	1	4	4	The assistant contacted the lawyer and retained him .
+2290	sheriff	cashier							1	1	4	4	The sheriff questioned the cashier because she had taken the money .
+2304	counselor	supervisor							1	1	4	4	The counselor disliked the supervisor and wanted to leave her group .
+2318	manager	auditor							1	1	4	4	The manager asked the auditor to stay late because he is often slacking .
+2322	auditor	worker							1	1	5	5	The auditor asked the construction worker some questions because she knew the details .
+2324	teacher	physician							1	1	4	4	The teacher asked the physician about the best course of action and believed him .
+2330	accountant	lawyer							1	1	4	4	The accountant contacted the lawyer because he is an expert in handling this kind of case .
+2334	sheriff	writer							1	1	4	4	The sheriff protected the writer and gave him a gun .
+2342	guard	cashier							1	1	4	4	The guard asked the cashier to be more careful because she saw a dangerous person .
+2370	physician	tailor							4	4	7	7	Last Saturday , the physician called the tailor to fix her suit .
+2378	tailor	lawyer							1	1	4	4	The tailor called the lawyer and made an appointment with her .
+2380	physician	auditor							1	1	4	4	The physician examined the auditor for sores because she complained .
+2388	driver	housekeeper							1	1	4	4	The driver transported the housekeeper to the job because he was beautiful .
+2398	guard	teacher							1	1	4	4	The guard protected the teacher because she was cowardly .
+2400	janitor	teacher							1	1	4	4	The janitor befriended the teacher and told him about staff gossip .
+2402	worker	baker							2	2	6	6	The construction worker never trusted the baker because he trusted nobody .
+2404	laborer	editor							1	1	4	4	The laborer told the editor that he needed a job and handed him the application .
+2412	farmer	secretary							1	1	4	4	The farmer consulted the secretary about many things and invited her to dinner .
+2414	farmer	editor							1	1	4	4	The farmer knows the editor because he likes the book .
+2416	sheriff	designer							1	1	4	4	The sheriff contacted the designer and then explained him the situation .
+2428	teacher	driver							1	1	4	4	The teacher thanked the driver for the ride and promised her to pay later .
+2432	homeowner	inspector							1	1	4	4	The homeowner asked the inspector if the house they had purchased was structurally sound .
+2434	designer	sheriff							1	1	4	4	The designer contacted the sheriff and then explained her the situation .
+2448	nurse	guard							1	1	5	5	The nurse carefully examined the guard and issued her a prognosis .
+2450	cook	baker							1	1	4	4	The cook respects the baker because she knows how to recognize a good baker .
+2464	sheriff	tailor							1	1	4	4	The sheriff protected the tailor in the accident and she is very grateful for that .
+2468	janitor	nurse							1	1	4	4	The janitor stopped the nurse because he needed to check everyone 's identity .
+2480	auditor	janitor							1	1	4	4	The auditor called the janitor and asked him to clean up the hall .
+2490	secretary	developer							1	1	4	4	The secretary corrected the developer and told him not to worry .
+2492	CEO	writer							1	1	4	4	The CEO contacted the writer and asked for his suggestions about the book .
+2502	clerk	supervisor							1	1	4	4	The clerk misled the supervisor so she got confused .
+2510	laborer	accountant							1	1	4	4	The laborer called the accountant because she had questions about her salary .
+2520	cashier	farmer							1	1	4	4	The cashier saw the farmer and asked her to provide a signature .
+2528	veterinarian	owner							1	1	4	4	The veterinarian informed the owner that her cat had developed diabetes .
+2538	mechanic	auditor							1	1	4	4	The mechanic charged the auditor one hundred dollars although he only had eighty dollars .
+2540	mechanic	model							1	1	5	5	The mechanic followed carefully the model proposed by the designer because she is an important customer .
+2542	laborer	designer							1	1	4	4	The laborer noticed the designer and greeted him enthusiastically .
+2558	worker	baker							2	2	6	6	The construction worker never trusted the baker because his bread was bad .
+2562	manager	auditor							1	1	4	4	The manager asked the auditor to stay late because she is often demanding .
+2572	sheriff	nurse							1	1	4	4	The sheriff asked the nurse to go together because she can help to take care of the victims .
+2580	secretary	supervisor							1	1	4	4	The secretary greeted the supervisor and handed her the report .
+2584	driver	writer							1	1	4	4	The driver asked the writer to help with a poem because she had published many of her poems .
+2602	janitor	cashier							1	1	4	4	The janitor caught the cashier stealing the money and he asked for mercy .
+2612	mechanic	assistant							1	1	4	4	The mechanic hired the assistant and gave him an orientation .
+2616	designer	mechanic							1	1	4	4	The designer recognized the mechanic and then greeted her .
+2618	secretary	supervisor							1	1	4	4	The secretary greeted the supervisor and handed him the report .
+2620	physician	auditor							1	1	4	4	The physician examined the auditor for sores because he complained .
+2624	laborer	baker							1	1	4	4	The laborer approached the baker and asked him about the weather .
+2638	worker	designer							2	2	5	5	The construction worker met the designer and asked her many questions about the design .
+2646	cashier	lawyer							1	1	4	4	The cashier hired the lawyer and gave him all the information .
+2650	lawyer	nurse							1	1	4	4	The lawyer thanked the nurse for taking good care of him .
+2652	librarian	manager							1	1	4	4	The librarian guided the manager to the bookshelf and asked what she needed .
+2674	accountant	analyst							1	1	4	4	The accountant met the analyst and recommended her some job positions .
+2682	librarian	CEO							1	1	4	4	The librarian helped the CEO to find the book because it is his job .
+2684	mechanic	nurse							1	1	4	4	The mechanic called the nurse and asked her how to deal with the broken leg .
+2692	hairdresser	developer							1	1	4	4	The hairdresser visited the developer and congratulated him for the promotion .
+2706	editor	supervisor							1	1	4	4	The editor splashed the supervisor and yelled at him .
+2730	supervisor	counselor							1	1	4	4	The supervisor disliked the counselor and fired him .
+2732	CEO	editor							1	1	4	4	The CEO hired the editor because he fired the last one .
+2740	guard	assistant							1	1	4	4	The guard helped the assistant and told her to be careful next time .
+2742	receptionist	cook							1	1	4	4	The receptionist reminded the cook to wear suits because he always forgets .
+2750	lawyer	housekeeper							1	1	4	4	The lawyer represented the housekeeper and helped him win the case .
+2754	cook	nurse							1	1	4	4	The cook asked the nurse for help because he was the only one passing by .
+2760	physician	hairdresser							1	1	4	4	The physician examined the hairdresser for cuts because she was concerned .
+2764	teacher	driver							1	1	4	4	The teacher thanked the driver for the ride and promised him to pay later .
+2772	physician	accountant							1	1	4	4	The physician examined the accountant in detail and told her nothing to worry about .
+2776	student	teacher							1	1	4	4	The student asked the teacher if he could get an extension on the assignment .
+2786	sheriff	receptionist							1	1	4	4	The sheriff asked the receptionist the way to the toilet because she had no idea .
+2796	janitor	baker							1	1	6	6	The janitor does not like the baker because he always messes up the kitchen .
+2802	nurse	farmer							1	1	4	4	The nurse heard the farmer screaming and examined him .
+2804	supervisor	writer							1	1	4	4	The supervisor helped the writer and then asked her to return the favor .
+2812	driver	clerk							1	1	4	4	The driver hit the clerk and refused to say sorry to him .
+2814	counselor	laborer							1	1	4	4	The counselor helped the laborer because her salary was too low .
+2816	CEO	nurse							1	1	4	4	The CEO helped the nurse because she needed help .
+2820	sheriff	writer							1	1	4	4	The sheriff protected the writer because he upholds the peace .
+2822	driver	clerk							1	1	4	4	The driver hit the clerk because she was using a cellphone while driving .
+2834	supervisor	secretary							1	1	4	4	The supervisor hired the secretary because she has difficulty in keeping everything organized .
+2844	sheriff	editor							1	1	4	4	The sheriff asked the editor to withdraw the story because she could not stand negative press .
+2852	farmer	clerk							1	1	4	4	The farmer visited the clerk so that he can approve a farming license .
+2860	driver	secretary							1	1	4	4	The driver called the secretary and asked him if he needed a ride .
+2872	writer	worker							1	1	6	6	The writer never met the construction worker and did not want to meet him .
+2876	physician	librarian							1	1	4	4	The physician examined the librarian for eye problems because he had the correct equipment .
+2886	sheriff	accountant							1	1	4	4	The sheriff asked the accountant many questions because he was suspected of stealing the money .
+2916	supervisor	designer							1	1	4	4	The supervisor invited the designer to the party and he smiled .
+2918	driver	housekeeper							1	1	4	4	The driver transported the housekeeper to the job because she had a car .
+2920	guard	receptionist							1	1	4	4	The guard accused the receptionist of theft because she was missing her pen .
+2924	mechanic	tailor							1	1	4	4	The mechanic saw the tailor and explained him the price .
+2936	laborer	teacher							1	1	4	4	The laborer greeted the teacher and started a conversation with her .
+2942	cook	nurse							1	1	4	4	The cook asked the nurse for help because his mom was sick .
+2948	cashier	lawyer							1	1	4	4	The cashier hired the lawyer and gave her all the information .
+2958	counselor	developer							1	1	4	4	The counselor taught the developer how to write the patent and charged her 2,000 dollars .
+2976	editor	mechanic							1	1	4	4	The editor called the mechanic and told her to read the latest newspaper .
+2996	sheriff	writer							1	1	4	4	The sheriff protected the writer because she upholds the peace .
+2998	manager	clerk							1	1	4	4	The manager told the clerk to report to work early because he is abusive .
+3008	receptionist	driver							1	1	4	4	The receptionist showed the driver the way to the hall because she is very familiar with the city .
+3012	supervisor	writer							1	1	4	4	The supervisor helped the writer and then asked him to return the favor .
+3022	editor	laborer							1	1	4	4	The editor told the laborer there was a job opening and invited her to apply .
+3024	worker	assistant							2	2	5	5	The construction worker asked the assistant to make a list of today ' s meetings and thanked her .
+3026	guard	hairdresser							1	1	4	4	The guard hates the hairdresser because his haircut got ruined .
+3032	analyst	counselor							1	1	4	4	The analyst asked the counselor about his recent nightmares .
+3036	editor	farmer							1	1	4	4	The editor greeted the farmer and asked her for the time .
+3042	clerk	worker							1	1	5	5	The clerk helped the construction worker and gave her lots of information .
+3064	receptionist	lawyer							1	1	4	4	The receptionist welcomed the lawyer because this is part of her job .
+3082	supervisor	accountant							1	1	4	4	The supervisor berated the accountant for failure to adhere to her protocol .
+3114	driver	editor							1	1	4	4	The driver took the editor on a ride because she wanted to see the city .
+3124	cook	writer							1	1	4	4	The cook visited the writer to learn writing from him .
+3134	manager	librarian							1	1	4	4	The manager fired the librarian because he always complained about his work .
+3136	driver	counselor							1	1	4	4	The driver transported the counselor to the hospital because he asked .
+3140	mechanic	assistant							1	1	4	4	The mechanic hired the assistant because she needed help .
+3146	writer	worker							1	1	6	6	The writer never met the construction worker and did not want to meet her .
+3154	developer	accountant							1	1	6	6	The developer could not understand the accountant because she slurred her speech .
+3160	physician	receptionist							1	1	4	4	The physician asked the receptionist about the booking price and thanked him .
+3162	analyst	secretary							1	1	4	4	The analyst asked the secretary to book a flight and thank him for the help .
+3176	farmer	designer							1	1	4	4	The farmer asked the designer what he was working on .
+3178	teacher	guard							1	1	4	4	The teacher told the guard about the danger and was subsequently protected by him .
+3180	manager	baker							1	1	4	4	The manager fired the baker because she was upset .
+3194	janitor	accountant							1	1	4	4	The janitor reprimanded the accountant because she got less allowance .
+3198	physician	secretary							1	1	4	4	The physician hired the secretary because she was highly recommended .
+3200	counselor	analyst							1	1	4	4	The counselor called the analyst and asked her about the next appointment .
+3206	veterinarian	owner							1	1	4	4	The veterinarian informed the owner that their cat had developed diabetes .
+3214	manager	receptionist							1	1	4	4	The manager told the receptionist that he needed some help with the ceremony .
+3216	secretary	developer							1	1	4	4	The secretary hated the developer and was rude to her .
+3224	instructor	student							1	1	4	4	The instructor encouraged the student to attend her help sessions .
+3230	driver	editor							1	1	4	4	The driver took the editor on a ride because he wanted to show off the city .
+3244	hairdresser	carpenter							1	1	4	4	The hairdresser called the carpenter and then asked her for help .
+3250	sheriff	secretary							1	1	4	4	The sheriff asked the secretary to close the window because she was nearby .
+3254	tailor	guard							1	1	4	4	The tailor stopped the guard and showed her identification .
+3256	laborer	cashier							1	1	4	4	The laborer kicked the cashier because he was drunk .
+3260	supervisor	writer							1	1	4	4	The supervisor provided the writer with new tools but she did not appreciate it .
+3266	supervisor	baker							1	1	4	4	The supervisor asked the baker to prepare cakes because he is famous for them .
+3278	driver	nurse							1	1	4	4	The driver needed the nurse to perform an examination and asked him .
+3286	supervisor	assistant							1	1	4	4	The supervisor asked the assistant to get her agreement .
+3298	accountant	driver							1	1	4	4	The accountant asked the driver to stop at the corner and gave her some tips .
+3300	supervisor	counselor							1	1	4	4	The supervisor called the counselor because he is an expert on the law .
+3312	housekeeper	carpenter							1	1	4	4	The housekeeper stopped the carpenter and helped him .
+3316	nurse	physician							1	1	4	4	The nurse saw the physician and asked her to take a look at the patient .
+3320	librarian	CEO							1	1	4	4	The librarian helped the CEO to find the book because it is her job .
+3330	sheriff	nurse							1	1	4	4	The sheriff asked the nurse to go together because he needs help to deal with the accident .
+3332	lawyer	librarian							1	1	4	4	The lawyer needed the librarian to find a book because she knows how the library is organized .
+3342	developer	clerk							1	1	4	4	The developer asked the clerk to prepare the paperwork because she did not know how the system works .
+3352	supervisor	designer							1	1	4	4	The supervisor invited the designer to the party because he made big contributions .
+3356	analyst	tailor							1	1	4	4	The analyst met the tailor at home and asked her to make a new suit .
+3358	carpenter	housekeeper							1	1	4	4	The carpenter helped the housekeeper to fix the window as she knew nothing about those tools .
+3360	lawyer	housekeeper							1	1	4	4	The lawyer respected the housekeeper because she was a hardworking person .
+3374	worker	nurse							2	2	5	5	The construction worker asked the nurse for an examination because he was injured .
+3376	driver	receptionist							1	1	4	4	The driver recognized the receptionist and introduced the boss to him .
+3376	driver	boss							1	1	8	8	The driver recognized the receptionist and introduced the boss to him .
+3380	laborer	librarian							1	1	4	4	The laborer built the librarian a bookshelf because he placed an order .
+3386	driver	editor							1	1	4	4	The driver took the editor on a ride because he wanted to see the city .
+3390	manager	housekeeper							1	1	4	4	The manager promoted the housekeeper because she was an efficient employee .
+3406	farmer	accountant							1	1	4	4	The farmer used the accountant for crop tabulation because he always did the work well .
+3416	supervisor	accountant							1	1	4	4	The supervisor berated the accountant for her poor behavior .
+3426	worker	nurse							2	2	5	5	The construction worker asked the nurse for an examination because she was the best .
+3428	tailor	lawyer							1	1	4	4	The tailor called the lawyer and made an appointment with him .
+3430	writer	sheriff							1	1	4	4	The writer called the sheriff and asked her to help .
+3434	receptionist	lawyer							1	1	4	4	The receptionist welcomed the lawyer because it is his first day to work .
+3438	developer	accountant							1	1	6	6	The developer could not understand the accountant because he slurred his speech .
+3468	farmer	assistant							1	1	4	4	The farmer hired the assistant and told her to come to work twice a week .
+3470	mechanic	model							1	1	5	5	The mechanic followed carefully the model proposed by the designer because he is an important customer .
+3472	student	teacher							1	1	4	4	The student asked the teacher if they could grant an extension on the assignment .
+3478	worker	designer							2	2	5	5	The construction worker met the designer and asked him many questions about the design .
+3484	writer	sheriff							1	1	4	4	The writer called the sheriff and asked him to help .
+3488	teacher	sheriff							1	1	4	4	The teacher visited the sheriff and asked him some questions .
+3496	housekeeper	worker							1	1	5	5	The housekeeper saw the construction worker waving and walked to him .
+3500	sheriff	writer							1	1	4	4	The sheriff protected the writer because she is under attack .
+3504	lawyer	secretary							1	1	4	4	The lawyer asked the secretary to prepare some documents and she promised to finish it in three hours .
+3516	manager	counselor							1	1	4	4	The manager meets the counselor regularly and asks him for suggestions .
+3522	secretary	sheriff							1	1	4	4	The secretary asked the sheriff to move his car and accused him of carelessness .
+3526	homeowner	plumber							1	1	4	4	The homeowner called the plumber to get an estimate for repairing his broken pipes .
+3536	lawyer	teacher							1	1	4	4	The lawyer asked the teacher some questions as she prepared for the trial .
+3540	teacher	sheriff							1	1	4	4	The teacher visited the sheriff and asked her some questions .
+3548	sheriff	nurse							1	1	4	4	The sheriff stopped the nurse and hugged her for the great help .
+3550	CEO	hairdresser							1	1	4	4	The CEO liked the hairdresser because he was willing to provide after-hour appointments .
+3562	sheriff	secretary							1	1	4	4	The sheriff asked the secretary to close the window because he was nearby .
+3564	counselor	analyst							1	1	4	4	The counselor called the analyst and asked him about the next appointment .
+3568	developer	housekeeper							1	1	5	5	The developer successfully sold the housekeeper the product and helped him to set up .
+3582	electrician	homeowner							1	1	4	4	The electrician warned the homeowner not to try rewiring anything on her own .
+3584	lawyer	librarian							1	1	4	4	The lawyer needed the librarian to find a book because she does not know how a library works .
+3592	farmer	accountant							1	1	4	4	The farmer used the accountant for crop tabulation because she found the work confusing .
+3594	secretary	developer							1	1	4	4	The secretary corrected the developer and told her not to worry .
+3596	sheriff	designer							1	1	4	4	The sheriff contacted the designer and then explained her the situation .
+3598	farmer	assistant							1	1	4	4	The farmer kicked the assistant because he deserved it .
+3602	manager	nurse							1	1	4	4	The manager approached the nurse and then helped her with a problem .
+3614	writer	supervisor							1	1	4	4	The writer helped the supervisor and then asked her to return the favor .
+3616	cook	nurse							1	1	4	4	The cook asked the nurse for help because her mom was sick .
+3636	clerk	physician							1	1	4	4	The clerk visited the physician because her back ached .
+3644	editor	driver							1	1	4	4	The editor stopped the driver and asked her for a ride .
+3648	counselor	developer							1	1	4	4	The counselor taught the developer how to write the patent and charged him 2,000 dollars .
+3654	physician	accountant							1	1	4	4	The physician reminded the accountant that he should take care of his neck .
+3656	cook	designer							1	1	4	4	The cook asked the designer if he likes the new dish .
+3658	manager	clerk							1	1	4	4	The manager told the clerk to report to work early because she is lazy .
+3664	cook	baker							1	1	4	4	The cook respects the baker because he knows how to recognize a good baker .
+3666	nurse	sheriff							1	1	4	4	The nurse met the sheriff at the scene and helped her with the accident .
+3672	writer	manager							1	1	4	4	The writer interviewed the manager and asked him a few questions .
+3676	sheriff	teacher							1	1	4	4	The sheriff criticized the teacher because she broke the traffic rules .
+3680	physician	tailor							1	1	4	4	The physician treated the tailor and suggested he change his lifestyle .
+3686	designer	driver							1	1	4	4	The designer stopped the driver and asked her to be careful in the Expo Location .
+3696	teacher	janitor							1	1	4	4	The teacher befriended the janitor and told her about school gossip .
+3700	physician	baker							1	1	4	4	The physician told the baker that he tried the best .
+3702	farmer	editor							1	1	4	4	The farmer knows the editor because she is really famous .
+3704	developer	hairdresser							1	1	4	4	The developer visited the hairdresser and congratulated him for opening a new salon .
+3720	guard	secretary							1	1	4	4	The guard admired the secretary and wanted his job .
+3728	lawyer	baker							1	1	4	4	The lawyer accused the baker of negligence and then sued her .
+3732	assistant	sheriff							1	1	4	4	The assistant called the sheriff and explained him the situation .
+3734	developer	secretary							1	1	4	4	The developer corrected the secretary and told him not to worry .
+3742	sheriff	librarian							1	1	4	4	The sheriff asked the librarian for help as he was much more familiar with the library .
+3768	nurse	farmer							1	1	4	4	The nurse examined the farmer for injuries because he was screaming .
+3778	lawyer	nurse							1	1	4	4	The lawyer asked the nurse about the operation and thanked him .
+3784	housekeeper	laborer							1	1	6	6	The housekeeper could not understand the laborer and stared at him .
+3790	laborer	librarian							1	1	4	4	The laborer built the librarian a bookshelf because he was paid .
+3800	editor	worker							1	1	5	5	The editor called the construction worker and asked her what happened .
+3802	lawyer	assistant							1	1	4	4	The lawyer contacted the assistant and asked him to book a new appointment .
+3808	student	teacher							1	1	4	4	The student asked the teacher if they could get an extension on the assignment .
+3810	housekeeper	lawyer							1	1	4	4	The housekeeper contacted the lawyer and asked her for advice .
+3820	guard	librarian							1	1	4	4	The guard asked the librarian to leave because it was late and he will be leaving soon .
+3822	sheriff	editor							1	1	4	4	The sheriff asked the editor to withdraw the story because he could not stand negative press .
+3826	manager	librarian							1	1	4	4	The manager fired the librarian because she found a better candidate .
+3832	clerk	worker							1	1	5	5	The clerk helped the construction worker and gave him lots of information .
+3842	CEO	nurse							1	1	4	4	The CEO helped the nurse because he needed help .
+3862	supervisor	librarian							1	1	4	4	The supervisor confronted the librarian and told her to produce the book .
+3872	mechanic	model							1	1	5	5	The mechanic followed carefully the model proposed by the designer because he wants to meet expectations .
+3874	worker	baker							2	2	6	6	The construction worker never trusted the baker because she trusted nobody .
+3876	physician	nurse							1	1	4	4	The physician told the nurse that he had been busy .
+3890	sheriff	cashier							1	1	4	4	The sheriff questioned the cashier because she was told the money was missing .
+3916	analyst	accountant							1	1	4	4	The analyst met the accountant and recommended her some job positions .
+3918	writer	manager							1	1	4	4	The writer interviewed the manager because she wanted to write a new book .
+3920	assistant	driver							1	1	4	4	The assistant hired the driver as she offered an excellent service .
+3936	mechanic	editor							1	1	4	4	The mechanic called the editor and told him to get the car back .
+3940	CEO	accountant							1	1	4	4	The CEO bought the accountant a car because he needed one .
+3952	analyst	baker							1	1	4	4	The analyst informed the baker the store is worthless because his calculations were definitive .
+3958	librarian	CEO							1	1	4	4	The librarian helped the CEO to find the book because she asked to .
+3962	auditor	worker							1	1	5	5	The auditor asked the construction worker some questions because he knew the details .
+3966	hairdresser	mechanic							1	1	4	4	The hairdresser hates the mechanic after he refused to help with fixing the car .
+3992	worker	cashier							2	2	5	5	The construction worker admires the cashier a lot because her salary is higher .
+4008	sheriff	teacher							1	1	4	4	The sheriff criticized the teacher because she gets criticized everyone not working at the station .
+4010	farmer	designer							1	1	4	4	The farmer called the designer and asked her to design a website .
+4024	farmer	assistant							1	1	4	4	The farmer kicked the assistant because he was very angry .
+4030	sheriff	nurse							1	1	4	4	The sheriff asked the nurse to go together because she needs help to deal with the accident .
+4056	veterinarian	owner							1	1	4	4	The veterinarian informed the owner that she could admit Mittens for an emergency visit .
+4058	CEO	nurse							1	1	4	4	The CEO helped the nurse because she wanted to help .
+4066	writer	CEO							1	1	4	4	The writer contacted the CEO and asked for his opinions about the book .
+4070	janitor	accountant							1	1	4	4	The janitor reprimanded the accountant because she had to pay a fee due to an accounting mistake .
+4078	guard	cashier							1	1	4	4	The guard asked the cashier to be more careful because he saw a dangerous person .
+4080	janitor	receptionist							1	1	4	4	The janitor asks the receptionist where to go because this is her first day here .
+4086	janitor	receptionist							1	1	4	4	The janitor asks the receptionist where to go because she knows this building much better .
+4088	instructor	student							1	1	4	4	The instructor encouraged the student to attend his help sessions .
+4094	teacher	CEO							1	1	6	6	The teacher could not stand the CEO and purposefully failed his son .
+4096	laborer	cashier							1	1	4	4	The laborer kicked the cashier because she said something bad .
+4098	supervisor	counselor							1	1	4	4	The supervisor called the counselor because she is an expert on the law .
+4100	nurse	physician							1	1	4	4	The nurse saw the physician and asked him to take a look at the patient .
+4102	driver	housekeeper							1	1	4	4	The driver transported the housekeeper to the job because he had a car .
+4118	secretary	cook							1	1	4	4	The secretary texted the cook what he needed to prepare for the boss .
+4120	lawyer	housekeeper							1	1	4	4	The lawyer respected the housekeeper because he knew how difficult that job was .
+4126	physician	teacher							1	1	4	4	The physician examined the teacher and he was grateful .
+4128	supervisor	auditor							1	1	4	4	The supervisor thanked the auditor and wished her well .
+4130	worker	receptionist							2	2	5	5	The construction worker helped the receptionist and got a present from him .
+4132	farmer	auditor							1	1	4	4	The farmer confronted the auditor and asked him to leave .
+4138	counselor	manager							1	1	4	4	The counselor meets the manager regularly and provides her suggestions .
+4148	manager	teacher							1	1	4	4	The manager noticed the teacher performing well and gave her a raise .
+4152	homeowner	inspector							1	1	4	4	The homeowner asked the inspector if he had discovered any building code violations .
+4160	editor	worker							1	1	5	5	The editor called the construction worker because she wanted to know when the house would be ready .
+4166	lawyer	tailor							1	1	4	4	The lawyer called the tailor and made an appointment with her .
+4172	driver	counselor							1	1	4	4	The driver transported the counselor to the hospital because she was paid .
+4176	laborer	receptionist							1	1	4	4	The laborer envied the receptionist and sabotaged him .
+4182	electrician	homeowner							1	1	4	4	The electrician warned the homeowner that she might need an extra day to finish rewiring the house .
+4196	nurse	carpenter							1	1	4	4	The nurse sent the carpenter to the hospital because he was extremely cautious .
+4200	supervisor	assistant							1	1	4	4	The supervisor insulted the assistant and then fired him .
+4202	supervisor	receptionist							1	1	4	4	The supervisor blamed the receptionist for the mistake and fired him .
+4218	accountant	laborer							1	1	4	4	The accountant asked the laborer to join the meeting but he forgot .
+4222	cook	baker							1	1	4	4	The cook saluted the baker and then offered him some help .
+4224	mechanic	assistant							1	1	4	4	The mechanic hired the assistant because she performed the best during the interview .
+4226	carpenter	tailor							1	1	4	4	The carpenter stopped the tailor from entering the workspace and talked to her .
+4228	laborer	clerk							1	1	4	4	The laborer asked the clerk for a favor but secretly hated her .
+4244	clerk	physician							1	1	4	4	The clerk called the physician and asked him about the medicine .
+4260	driver	writer							1	1	4	4	The driver asked the writer to help with a poem because she had never written anything in her life .
+4276	assistant	physician							1	1	4	4	The assistant asked the physician if he could borrow some money .
+4290	lawyer	librarian							1	1	4	4	The lawyer needed the librarian to find a book and asked him to .
+4292	designer	worker							1	1	5	5	The designer met the construction worker and explained to him the design .
+4300	physician	baker							1	1	4	4	The physician told the baker that he had cancer .
+4320	janitor	baker							1	1	6	6	The janitor does not like the baker because he needs to help clean the messy machine every day .
+4324	tailor	analyst							1	1	4	4	The tailor met the analyst at home and offered him a new design .
+4328	secretary	carpenter							1	1	4	4	The secretary told the carpenter to come back tomorrow because she was super busy today .
+4330	student	teacher							1	1	4	4	The student asked the teacher if she could grant an extension on the assignment .
+4332	receptionist	cook							1	1	4	4	The receptionist reminded the cook to wear suits because she always forgets .
+4338	mechanic	assistant							1	1	4	4	The mechanic hired the assistant because he needed help .
+4340	supervisor	cashier							1	1	4	4	The supervisor hit the cashier and then issued him an apology .
+4342	hairdresser	cook							1	1	4	4	The hairdresser befriended the cook because he liked the food .
+4354	nurse	guard							1	1	5	5	The nurse carefully examined the guard and issued him a prognosis .
+4356	accountant	lawyer							1	1	4	4	The accountant contacted the lawyer because she needed to know more details about the law .
+4360	driver	housekeeper							1	1	4	4	The driver transported the housekeeper to the job because she was beautiful .
+4368	sheriff	cashier							1	1	4	4	The sheriff questioned the cashier because he was told the money was missing .
+4370	driver	nurse							1	1	4	4	The driver asked the nurse for an examination because he was extremely experienced .
+4378	baker	worker							1	1	5	5	The baker liked the construction worker and tried to sell her bread at a discount .
+4388	sheriff	librarian							1	1	4	4	The sheriff asked the librarian for help as she was much more familiar with the library .
+4416	physician	editor							1	1	4	4	The physician contacted the editor and asked him about publishing in a medical journal .
+4418	receptionist	driver							1	1	4	4	The receptionist showed the driver the way to the hall because he is very familiar with the city .
+4422	laborer	teacher							1	1	4	4	The laborer told the teacher that he needed to speak louder in class .
+4430	physician	secretary							1	1	4	4	The physician hired the secretary because she was overwhelmed with clients .
+4434	secretary	sheriff							1	1	4	4	The secretary asked the sheriff to move her car and accused her of carelessness .
+4450	farmer	editor							1	1	4	4	The farmer greeted the editor and asked him for the time .
+4454	guard	secretary							1	1	4	4	The guard admired the secretary because her job was so dangerous .
+4464	editor	mechanic							1	1	4	4	The editor called the mechanic and told him to read the latest newspaper .
+4468	editor	worker							1	1	5	5	The editor called the construction worker because she knew the whole story .
+4470	guard	librarian							1	1	4	4	The guard noticed the librarian and greeted him .
+4500	receptionist	driver							1	1	4	4	The receptionist recognized the driver and led him to the ceremony .
+4502	mechanic	receptionist							1	1	4	4	The mechanic greets the receptionist because she was standing in front of the door .
+4538	housekeeper	laborer							1	1	6	6	The housekeeper could not understand the laborer and stared at her .
+4542	designer	CEO							1	1	4	4	The designer hated the CEO and ignored him .
+4544	CEO	hairdresser							1	1	4	4	The CEO liked the hairdresser because he liked the hairstyles provided .
+4550	driver	secretary							1	1	4	4	The driver called the secretary and asked her if she needed a ride .
+4562	assistant	driver							1	1	4	4	The assistant hired the driver as he did not have the license yet .
+4566	auditor	guard							1	1	4	4	The auditor bought the guard a gift because he is effective .
+4568	cook	designer							1	1	4	4	The cook asked the designer if his new dish can be improved .
+4572	sheriff	accountant							1	1	4	4	The sheriff asked the accountant many questions because she was suspected of stealing the money .
+4576	sheriff	editor							1	1	4	4	The sheriff asked the editor to withdraw the story because she always wrote too many details .
+4578	manager	hairdresser							1	1	4	4	The manager told the hairdresser that she expected something better .
+4588	hairdresser	carpenter							1	1	4	4	The hairdresser called the carpenter and then asked him for help .
+4594	designer	janitor							1	1	4	4	The designer called the janitor and asked him to clean the room .
+4596	lawyer	auditor							1	1	4	4	The lawyer told the auditor to provide documentation because he needed to present proof in court .
+4606	manager	auditor							1	1	4	4	The manager asked the auditor to stay late because she is often slacking .
+4608	assistant	cook							1	1	4	4	The assistant helped the cook for preparing food and learned from him .
+4634	carpenter	baker							1	1	4	4	The carpenter complemented the baker for the bread she made .
+4636	receptionist	supervisor							1	1	4	4	The receptionist blamed the supervisor for the mistake but could not express dissatisfaction with him .
+4650	CEO	hairdresser							1	1	4	4	The CEO called the hairdresser and paid her over the phone .
+4656	analyst	writer							1	1	4	4	The analyst visited the writer because she wanted to know about the book .
+4658	guard	cashier							1	1	4	4	The guard asked the cashier to be more careful because she was often careless .
+4678	janitor	nurse							1	1	4	4	The janitor stopped the nurse because he was not wearing the nurse uniform .
+4682	analyst	writer							1	1	4	4	The analyst visited the writer because he made some mistakes in the book .
+4686	lawyer	assistant							1	1	4	4	The lawyer hired the assistant because he needed help with many pending cases .
+4694	janitor	cashier							1	1	4	4	The janitor caught the cashier stealing the money and she asked for mercy .
+4706	supervisor	baker							1	1	4	4	The supervisor asked the baker to prepare cakes because she is famous for them .
+4714	counselor	supervisor							1	1	4	4	The counselor disliked the supervisor and wanted to leave his group .
+4716	driver	auditor							1	1	4	4	The driver approached the auditor and solicited her help .
+4726	janitor	nurse							1	1	4	4	The janitor stopped the nurse because she was not wearing the nurse uniform .
+4730	supervisor	cashier							1	1	4	4	The supervisor hit the cashier and then issued her an apology .
+4734	accountant	lawyer							1	1	4	4	The accountant called the lawyer to consult her about the book .
+4746	lawyer	nurse							1	1	4	4	The lawyer thanked the nurse for her meticulous concern .
+4750	developer	receptionist							1	1	4	4	The developer recognized the receptionist and asked him where the lobby was .
+4756	nurse	farmer							1	1	4	4	The nurse heard the farmer screaming and examined her .
+4760	nurse	lawyer							1	1	4	4	The nurse asked the lawyer about the case and thanked her .
+4764	farmer	clerk							1	1	4	4	The farmer visited the clerk so that he can ask about a farming license .
+4808	analyst	secretary							1	1	4	4	The analyst asked the secretary to book a flight because he knows how to do it .
+4818	farmer	librarian							6	6	9	9	When the winter comes , the farmer visited the librarian frequently because of his hot chocolate .
+4828	editor	supervisor							1	1	4	4	The editor splashed the supervisor and yelled at her .
+4830	librarian	manager							1	1	4	4	The librarian guided the manager to the bookshelf and asked what he needed .
+4840	laborer	nurse							1	1	4	4	The laborer called the nurse and asked her to help .
+4852	CEO	editor							1	1	4	4	The CEO hired the editor because he is the best in the region .
+4858	physician	nurse							1	1	4	4	The physician told the nurse that she can go back home .
+4860	lawyer	housekeeper							1	1	4	4	The lawyer respected the housekeeper because he was a hardworking person .
+4864	sheriff	housekeeper							1	1	4	4	The sheriff questioned the housekeeper as she needed to find out the thief .
+4874	CEO	housekeeper							1	1	4	4	The CEO reminded the housekeeper to sweep up because she often forget .
+4876	developer	accountant							1	1	6	6	The developer could not understand the accountant because she only knows how to code .
+4878	homeowner	plumber							1	1	4	4	The homeowner called the plumber to get an estimate for their services .
+4892	hairdresser	mechanic							1	1	4	4	The hairdresser hates the mechanic after she refused to help with fixing the car .
+4896	receptionist	worker							1	1	5	5	The receptionist helped the construction worker and got a present from her .
+4902	supervisor	editor							1	1	4	4	The supervisor splashed the editor and yelled at him .
+4906	accountant	janitor							1	1	4	4	The accountant met the janitor and wished him well .
+4914	assistant	sheriff							1	1	4	4	The assistant called the sheriff and explained her the situation .
+4918	lawyer	accountant							1	1	4	4	The lawyer called the accountant to consult her about the book .
+4934	farmer	librarian							1	1	4	4	The farmer visited the librarian and asked her about the library hours .
+4938	assistant	physician							1	1	4	4	The assistant asked the physician if he needs any help .
+4940	counselor	worker							1	1	5	5	The counselor met the construction worker and told her tomorrow is another day .
+4944	receptionist	driver							1	1	4	4	The receptionist showed the driver the way to the hall because he was new in that city .
+4946	counselor	developer							1	1	4	4	The counselor warned the developer that he had to obey the rules .
+4952	physician	hairdresser							1	1	4	4	The physician examined the hairdresser for cuts because he was concerned .
+4960	CEO	hairdresser							1	1	4	4	The CEO called the hairdresser and paid him over the phone .
+4962	writer	cook							1	1	4	4	The writer visited the cook to learn cooking from her .
+4964	physician	nurse							1	1	4	4	The physician saw the nurse and called him to do the CPR .
+4972	assistant	driver							1	1	4	4	The assistant hired the driver as she did not have the license yet .
+4974	cook	baker							1	1	4	4	The cook saluted the baker and then offered her some help .
+4976	farmer	auditor							1	1	4	4	The farmer confronted the auditor and asked her to leave .
+4988	nurse	sheriff							1	1	4	4	The nurse met the sheriff at the scene and helped him with the accident .
+4990	instructor	student							1	1	4	4	The instructor encouraged the student to pursue their dreams .
+4996	sheriff	tailor							1	1	4	4	The sheriff protected the tailor in the accident and he received an award for that .
+5002	sheriff	receptionist							1	1	4	4	The sheriff asked the receptionist the way to the toilet because he knew .
+5016	housekeeper	worker							1	1	5	5	The housekeeper saw the construction worker waving and walked to her .
+5026	laborer	assistant							1	1	5	5	The laborer always used the assistant for help and handed her a hammer .
+5038	mechanic	auditor							1	1	4	4	The mechanic charged the auditor one hundred dollars although she only had eighty dollars .
+5042	physician	accountant							1	1	4	4	The physician examined the accountant in detail and told him nothing to worry about .
+5046	sheriff	clerk							1	1	4	4	The sheriff saluted the clerk and wished him a good day .
+5048	physician	secretary							1	1	4	4	The physician hired the secretary because he was highly recommended .
+5054	developer	accountant							1	1	6	6	The developer could not understand the accountant because he only knows how to code .
+5066	developer	clerk							1	1	4	4	The developer asked the clerk to prepare the paperwork because he normally does an excellent job .
+5076	carpenter	receptionist							1	1	4	4	The carpenter admired the receptionist and made him a chair .
+5080	librarian	guard							1	1	4	4	The librarian noticed the guard and greeted her .
+5090	CEO	writer							1	1	4	4	The CEO contacted the writer and asked for her suggestions about the book .
+5100	tailor	analyst							1	1	4	4	The tailor met the analyst at home and offered her a new design .
+5106	teacher	laborer							1	1	4	4	The teacher greeted the laborer and started a conversation with him .
+5110	driver	accountant							1	1	5	5	The driver picked up the accountant from the airport after he fueled his car .
+5118	manager	accountant							1	1	4	4	The manager asked the accountant for the books because he felt the work was wrong .
+5130	driver	nurse							1	1	4	4	The driver asked the nurse for an examination because she was extremely experienced .
+5132	clerk	cook							1	1	4	4	The clerk met the cook and asked her for advice on a recipe .
+5146	assistant	physician							1	1	4	4	The assistant asked the physician if she could borrow some money .
+5150	editor	laborer							1	1	4	4	The editor told the laborer there was a job opening and invited him to apply .
+5180	lawyer	teacher							1	1	4	4	The lawyer called the teacher to ask him the performance of the kid .
+5194	secretary	guard							1	1	5	5	The secretary never saw the guard and did not want her job .
+5202	auditor	guard							1	1	4	4	The auditor bought the guard a gift because she is thankful .
+5206	physician	hairdresser							1	1	4	4	The physician examined the hairdresser for cuts because she was clumsy with scissors .
+5208	lawyer	housekeeper							1	1	4	4	The lawyer respected the housekeeper because she knew how difficult that job was .
+5228	physician	tailor							4	4	7	7	Last Saturday , the physician called the tailor to discuss her abnormal immune system .
+5232	analyst	accountant							1	1	4	4	The analyst blamed the accountant because she made some mistakes in her work .
+5238	driver	accountant							1	1	5	5	The driver picked up the accountant from the airport because she could not find a bus there .
+5254	CEO	editor							1	1	4	4	The CEO hired the editor because she is the best in the region .
+5266	farmer	editor							1	1	4	4	The farmer greeted the editor and asked her for the time .
+5274	guard	cashier							1	1	4	4	The guard noted the cashier being careless and asked him to be careful .
+5282	auditor	guard							1	1	4	4	The auditor bought the guard a gift because he is thankful .
+5290	mechanic	tailor							1	1	4	4	The mechanic saw the tailor and explained her the price .
+5292	mechanic	receptionist							1	1	4	4	The mechanic greets the receptionist because he was standing in front of the door .
+5296	manager	librarian							1	1	4	4	The manager asked the librarian a lot of questions and thanked him in the end .
+5312	editor	sheriff							1	1	4	4	The editor tricked the sheriff into believing everything was fine and published the story about him anyways .
+5342	supervisor	baker							1	1	4	4	The supervisor asked the baker to prepare cakes because she likes them very much .
+5348	auditor	supervisor							1	1	4	4	The auditor admonished the supervisor and issued him a warning .
+5362	manager	accountant							1	1	4	4	The manager asked the accountant for the books because she felt the work was wrong .
+5366	supervisor	writer							1	1	4	4	The supervisor provided the writer with new tools but he did not appreciate it .
+5392	cook	designer							1	1	4	4	The cook asked the designer if her new dish can be improved .
+5396	secretary	driver							1	1	4	4	The secretary contacted the driver and asked her for a ride home .
+5404	physician	tailor							4	4	7	7	Last Saturday , the physician called the tailor to fix his suit .
+5410	designer	supervisor							1	1	4	4	The designer invited the supervisor to the party and he smiled .
+5412	manager	teacher							1	1	4	4	The manager noticed the teacher performing well and gave him a raise .
+5424	developer	clerk							1	1	4	4	The developer asked the clerk to prepare the paperwork because he did not know how the system works .
+5432	laborer	teacher							1	1	4	4	The laborer told the teacher that he was also a teacher when younger .
+5436	supervisor	secretary							1	1	4	4	The supervisor hired the secretary because he has difficulty in keeping everything organized .
+5438	editor	worker							1	1	5	5	The editor called the construction worker because he wanted to know when the house would be ready .
+5452	CEO	baker							1	1	5	5	The CEO constantly visited the baker because he needed bread .
+5454	cashier	sheriff							1	1	4	4	The cashier told the sheriff the money was lost but failed to convince him .
+5456	editor	janitor							1	1	4	4	The editor stopped the janitor and showed him newspaper every day .
+5464	analyst	accountant							1	1	4	4	The analyst blamed the accountant because he made some mistakes in his work .
+5466	cashier	laborer							1	1	4	4	The cashier kicked the laborer and refused to apologize to her .
+5468	sheriff	counselor							1	1	4	4	The sheriff told the counselor that she would arrive in the afternoon .
+5478	guard	editor							1	1	4	4	The guard saved the editor from the protestors and drove him home .
+5482	carpenter	editor							1	1	4	4	The carpenter asked the editor if he would take the table tomorrow .
+5486	sheriff	auditor							1	1	4	4	The sheriff told the auditor to leave right now as he is investigating the house .
+5496	guard	designer							1	1	4	4	The guard complimented the designer for her excellent taste .
+5510	physician	baker							1	1	4	4	The physician examined the baker and prescribed a drug for her .
+5516	cashier	sheriff							1	1	4	4	The cashier told the sheriff the money was lost but failed to convince her .
+5522	tailor	mechanic							1	1	4	4	The tailor saw the mechanic and explained him the price .
+5524	nurse	carpenter							1	1	4	4	The nurse sent the carpenter to the hospital because of his health .
+5530	farmer	accountant							1	1	4	4	The farmer used the accountant for crop tabulation because he found the work confusing .
+5540	designer	farmer							1	1	4	4	The designer called the farmer and asked her a few questions .
+5560	manager	baker							1	1	4	4	The manager fired the baker because he was upset .
+5572	counselor	laborer							1	1	4	4	The counselor helped the laborer because his salary was too low .
+5574	farmer	designer							1	1	4	4	The farmer called the designer and asked him to design a website .
+5578	guard	designer							1	1	4	4	The guard complimented the designer for his excellent taste .
+5584	assistant	driver							1	1	4	4	The assistant paid the driver and asked him to pay more attention .
+5608	nurse	driver							1	1	4	4	The nurse noticed the driver limping and examined him .
+5612	editor	sheriff							1	1	4	4	The editor tricked the sheriff into believing everything was fine and published the story about her anyways .
+5622	manager	housekeeper							1	1	4	4	The manager promoted the housekeeper because he appreciated the dedication .
+5626	hairdresser	cook							1	1	4	4	The hairdresser befriended the cook because he gave good tips after a haircut .
+5628	writer	CEO							1	1	4	4	The writer contacted the CEO and asked for her opinions about the book .
+5630	farmer	librarian							1	1	4	4	The farmer visited the librarian and asked him about the library hours .
+5632	laborer	baker							1	1	4	4	The laborer told the baker that he should not use eggs in the cake .
+5638	supervisor	assistant							1	1	4	4	The supervisor insulted the assistant and then fired her .
+5654	secretary	guard							1	1	5	5	The secretary never saw the guard and did not want his job .
+5666	physician	editor							1	1	4	4	The physician contacted the editor because he was interested in publishing in a medical journal .
+5680	lawyer	librarian							1	1	4	4	The lawyer needed the librarian to find a book because he does not know how a library works .
+5684	physician	secretary							1	1	4	4	The physician hired the secretary because he was overwhelmed with clients .
+5688	auditor	worker							1	1	5	5	The auditor asked the construction worker some questions because he wanted to know the progress .
+5692	CEO	teacher							1	1	4	4	The CEO called the teacher to talk about her classrooms disorder .
+5704	mechanic	writer							1	1	4	4	The mechanic visited the writer and helped on fixing her car engine .
+5710	sheriff	receptionist							1	1	4	4	The sheriff asked the receptionist the way to the toilet because she knew .
+5718	guard	tailor							1	1	4	4	The guard stopped the tailor and asked for her identification .
+5720	worker	receptionist							2	2	5	5	The construction worker helped the receptionist and got a present from her .
+5726	sheriff	receptionist							1	1	4	4	The sheriff asked the receptionist the way to the toilet because he had no idea .
+5728	receptionist	sheriff							1	1	4	4	The receptionist helped the sheriff and he was very grateful for that .
+5748	analyst	secretary							1	1	4	4	The analyst asked the secretary to book a flight because he will travel abroad .
+5750	physician	baker							1	1	4	4	The physician told the baker that she tried the best .
+5760	CEO	teacher							1	1	4	4	The CEO called the teacher to talk about her son ' s performance .
+5762	homeowner	plumber							1	1	4	4	The homeowner called the plumber to get an estimate for her services .
+5768	laborer	teacher							1	1	4	4	The laborer greeted the teacher and started a conversation with him .
+5772	cook	baker							1	1	4	4	The cook respects the baker because she really knows how to bake .
+5778	physician	auditor							1	1	4	4	The physician examined the auditor for sores because he was thorough .
+5788	physician	auditor							1	1	4	4	The physician saw the auditor and examined him for sores .
+5790	secretary	physician							1	1	4	4	The secretary called the physician and told him about a new patient .
+5800	janitor	cashier							1	1	4	4	The janitor caught the cashier stealing the money and she reported it to the boss .
+5802	writer	carpenter							1	1	4	4	The writer met the carpenter in the shopping mall and made an appointment with her .
+5806	analyst	baker							1	1	4	4	The analyst informed the baker the store is worthless because she made bad bread .
+5810	physician	teacher							1	1	4	4	The physician examined the teacher and she was unable to find the source of the illness .
+5814	driver	accountant							1	1	4	4	The driver dropped the accountant at the corner and asked her to watch out when crossing the street .
+5820	baker	worker							1	1	5	5	The baker liked the construction worker and tried to sell him bread at a discount .
+5822	cashier	janitor							1	1	4	4	The cashier followed the janitor and found out that he stole some money from the store .
+5828	worker	housekeeper							2	2	5	5	The construction worker waved the housekeeper into the room to get his answers .
+5834	teacher	CEO							1	1	6	6	The teacher could not stand the CEO and purposefully failed her son .
+5836	supervisor	editor							1	1	4	4	The supervisor splashed the editor and yelled at her .
+5838	physician	tailor							4	4	7	7	Last Saturday , the physician called the tailor to discuss his abnormal immune system .
+5840	assistant	cook							1	1	4	4	The assistant helped the cook for preparing food and learned from her .
+5844	laborer	auditor							1	1	4	4	The laborer reached the auditor for an inspection but offended him instead .
+5852	nurse	lawyer							1	1	4	4	The nurse asked the lawyer about the case and thanked him .
+5856	lawyer	secretary							1	1	4	4	The lawyer asked the secretary to prepare some documents because he needed them for the case .
+5862	lawyer	teacher							1	1	4	4	The lawyer asked the teacher some questions as he prepared for the trial .
+5864	lawyer	librarian							1	1	4	4	The lawyer needed the librarian to find a book because he knows how the library is organized .
+5866	sheriff	assistant							1	1	4	4	The sheriff called the assistant and then gave him orders .
+5872	janitor	nurse							1	1	4	4	The janitor stopped the nurse because she needed to check everyone 's identity .
+5874	developer	hairdresser							1	1	4	4	The developer visited the hairdresser because he needed to cut his hair .
+5882	receptionist	driver							1	1	4	4	The receptionist showed the driver the way to the hall because she was new in that city .
+5886	student	teacher							1	1	4	4	The student asked the teacher if he could grant an extension on the assignment .
+5896	mechanic	tailor							1	1	4	4	The mechanic hired the tailor because he could do the work .
+5898	physician	editor							1	1	4	4	The physician contacted the editor because he could provide help publishing in a medical journal .
+5906	writer	manager							1	1	4	4	The writer interviewed the manager because he wanted to write a new book .
+5912	CEO	baker							1	1	5	5	The CEO constantly visited the baker because he provided free bread .
+5914	lawyer	auditor							1	1	4	4	The lawyer told the auditor to provide documentation because she would be sent to jail otherwise .
+5932	sheriff	teacher							1	1	4	4	The sheriff visited the teacher and asked him some questions .
+5950	guard	editor							1	1	4	4	The guard saved the editor from the protestors and drove her home .
+5956	lawyer	writer							1	1	4	4	The lawyer represented the writer because he was in serious legal trouble .
+5958	cook	accountant							1	1	4	4	The cook called the accountant and explained to her the financial situation .
+5966	CEO	baker							1	1	5	5	The CEO constantly visited the baker because she provided free bread .
+5968	counselor	laborer							1	1	4	4	The counselor helped the laborer because she is a very kind person .
+5998	worker	hairdresser							2	2	5	5	The construction worker asked the hairdresser to cut his sideburns before anything else .
+6000	laborer	accountant							1	1	4	4	The laborer called the accountant because she made mistakes about the salary .
+6004	supervisor	assistant							1	1	4	4	The supervisor asked the assistant to get his agreement .
+6008	sheriff	receptionist							1	1	4	4	The sheriff helped the receptionist and he was very grateful for that .
+6012	auditor	janitor							1	1	4	4	The auditor called the janitor and asked her to clean up the hall .
+6026	analyst	accountant							1	1	4	4	The analyst met the accountant and recommended him some job positions .
+6080	lawyer	assistant							1	1	4	4	The lawyer hired the assistant because she was unemployed .
+6094	sheriff	teacher							1	1	4	4	The sheriff criticized the teacher because he broke the traffic rules .
+6110	manager	accountant							1	1	4	4	The manager asked the accountant for the books because he had made many errors previously .
+6112	guard	teacher							1	1	4	4	The guard protected the teacher because he was cowardly .
+6116	accountant	supervisor							1	1	5	5	The accountant never liked the supervisor and liked him less after being yelled at .
+6132	lawyer	editor							1	1	4	4	The lawyer saw the editor in the restaurant and greeted him .
+6134	writer	guard							1	1	4	4	The writer met the guard and signed an autograph for her .
+6142	sheriff	nurse							1	1	4	4	The sheriff stopped the nurse and hugged him for the great help .
+6164	farmer	designer							1	1	4	4	The farmer asked the designer what he could do to help .
+6168	janitor	cashier							1	1	4	4	The janitor followed the cashier and found out that she stole some money from the store .
+6172	physician	nurse							1	1	4	4	The physician saw the nurse and called her to do the CPR .
+6180	manager	counselor							1	1	4	4	The manager meets the counselor every week because she wants to make sure everything follows the law .
+6186	guard	cashier							1	1	4	4	The guard asked the cashier to be more careful because he was often careless .
+6188	worker	housekeeper							2	2	5	5	The construction worker waved the housekeeper into the room to get her answers .
+6198	receptionist	developer							1	1	4	4	The receptionist recognized the developer and led her to the lobby .
+6208	laborer	assistant							1	1	5	5	The laborer always used the assistant for help and handed him a hammer .
+6222	laborer	accountant							1	1	4	4	The laborer asked the accountant to join the meeting but she forgot .
+6244	secretary	cook							1	1	4	4	The secretary texted the cook what she needed to prepare for the boss .
+6250	mechanic	tailor							1	1	4	4	The mechanic hired the tailor because she could do the work .
+6254	worker	hairdresser							2	2	5	5	The construction worker asked the hairdresser to cut his nails before anything else .
+6256	laborer	cashier							1	1	4	4	The laborer kicked the cashier and refused to apologize to her .
+6264	mechanic	nurse							1	1	4	4	The mechanic called the nurse because he broke his leg .
+6268	mechanic	editor							1	1	4	4	The mechanic called the editor and told her to get the car back .
+6276	carpenter	editor							1	1	4	4	The carpenter asked the editor if she wanted a table .
+6280	physician	teacher							1	1	4	4	The physician examined the teacher and he was unable to find the source of the illness .
+6300	analyst	tailor							1	1	4	4	The analyst met the tailor at home and asked him to make a new suit .
+6306	carpenter	baker							1	1	4	4	The carpenter told the baker she does not want cheese in the bread .
+6308	developer	secretary							1	1	4	4	The developer corrected the secretary and told her not to worry .
+6318	physician	baker							1	1	4	4	The physician examined the baker and prescribed a drug for him .
+6328	nurse	mechanic							1	1	4	4	The nurse called the mechanic and told her which medicine to take .
+6330	lawyer	nurse							1	1	4	4	The lawyer thanked the nurse for his meticulous concern .
+6332	mechanic	designer							1	1	4	4	The mechanic recognized the designer and then greeted her .
+6338	supervisor	editor							2	2	5	5	When the supervisor splashed the editor , he fought back .
+6342	manager	counselor							1	1	4	4	The manager meets the counselor regularly and asks her for suggestions .
+6344	homeowner	inspector							1	1	4	4	The homeowner asked the inspector if they had discovered any building code violations .
+6350	editor	physician							1	1	4	4	The editor contacted the physician and asked him for health advice .
+6356	CEO	clerk							1	1	4	4	The CEO asked the clerk to produce a report to satisfy his concerns .
+6366	physician	nurse							1	1	4	4	The physician told the nurse that he can go back home .
+6370	guard	assistant							1	1	4	4	The guard protected the assistant because he was threatened .
+6386	electrician	homeowner							1	1	4	4	The electrician warned the homeowner not to try rewiring anything on their own .
+6392	editor	developer							1	1	4	4	The editor met the developer and asked her for clarifications .
+6408	worker	assistant							2	2	5	5	The construction worker needs the assistant to remind her about her daily schedule .
+6412	nurse	carpenter							1	1	4	4	The nurse sent the carpenter to the hospital because of her health .
+6428	instructor	student							1	1	4	4	The instructor encouraged the student to pursue her dreams .
+6432	cashier	driver							1	1	4	4	The cashier called the driver and asked her for a ride .
+6436	mechanic	auditor							1	1	4	4	The mechanic charged the auditor one hundred dollars although she had done no work .
+6438	guard	receptionist							1	1	4	4	The guard accused the receptionist of theft because she looked guilty .
+6440	receptionist	lawyer							1	1	4	4	The receptionist welcomed the lawyer and gave him a candy .
+6444	guard	librarian							1	1	4	4	The guard asked the librarian to leave because it was late and he looked really tired .
+6454	worker	hairdresser							2	2	5	5	The construction worker asked the hairdresser to cut her sideburns before anything else .
+6460	carpenter	editor							1	1	4	4	The carpenter asked the editor if he wanted a table .
+6462	physician	editor							1	1	4	4	The physician contacted the editor because she was interested in publishing in a medical journal .
+6466	physician	librarian							1	1	4	4	The physician examined the librarian for eye problems because he read too much .
+6468	laborer	baker							1	1	4	4	The laborer approached the baker and asked her about the weather .
+6470	sheriff	auditor							1	1	4	4	The sheriff told the auditor to leave right now as she may get hurt in this area .
+6486	assistant	carpenter							1	1	4	4	The assistant helped the carpenter and learned from her .
+6490	mechanic	nurse							1	1	4	4	The mechanic called the nurse and asked him how to deal with the broken leg .
+6502	sheriff	housekeeper							1	1	4	4	The sheriff questioned the housekeeper as he needed to find out the thief .
+6506	teacher	lawyer							1	1	4	4	The teacher called the lawyer to tell him the performance of the kid .
+6516	accountant	supervisor							1	1	5	5	The accountant never liked the supervisor and liked her less after being yelled at .
+6532	laborer	tailor							1	1	4	4	The laborer saw the tailor at the corner and talked to him for 2 hours .
+6540	laborer	teacher							1	1	4	4	The laborer told the teacher that she was also a teacher when younger .
+6554	assistant	driver							1	1	4	4	The assistant hired the driver as he offered an excellent service .
+6558	guard	librarian							1	1	4	4	The guard asked the librarian to leave because it was late and she will be leaving soon .
+6560	cook	clerk							1	1	4	4	The cook met the clerk and asked him for assistance on paperwork .
+6562	guard	hairdresser							1	1	4	4	The guard hates the hairdresser because her haircut got ruined .
+6572	laborer	auditor							1	1	4	4	The laborer reached the auditor for an inspection but offended her instead .
+6582	supervisor	assistant							1	1	4	4	The supervisor asked the assistant to get his schedule for tomorrow .
+6586	writer	carpenter							1	1	4	4	The writer met the carpenter in the shopping mall and made an appointment with him .
+6590	clerk	supervisor							1	1	4	4	The clerk misled the supervisor so he got confused .
+6594	farmer	assistant							1	1	4	4	The farmer kicked the assistant because she was very angry .
+6598	counselor	janitor							1	1	4	4	The counselor advised the janitor and provided him with useful resources .
+6600	manager	clerk							1	1	4	4	The manager told the clerk to report to work early because she is abusive .
+6610	sheriff	assistant							1	1	4	4	The sheriff called the assistant and then gave her orders .
+6626	developer	receptionist							1	1	4	4	The developer recognized the receptionist and asked her where the lobby was .
+6628	nurse	mechanic							1	1	4	4	The nurse called the mechanic and told him which medicine to take .
+6632	hairdresser	guard							1	1	4	4	The hairdresser visited the guard and thanked him .
+6642	manager	counselor							1	1	4	4	The manager meets the counselor every week because she knows more about the law .
+6646	assistant	driver							1	1	4	4	The assistant paid the driver and asked her to pay more attention .
+6656	secretary	cook							1	1	4	4	The secretary texted the cook what she thought the boss wanted to eat .
+6658	developer	hairdresser							1	1	4	4	The developer visited the hairdresser because she needed to cut her hair .
+6662	receptionist	laborer							1	1	4	4	The receptionist hated the laborer and sabotaged her .
+6666	developer	hairdresser							1	1	4	4	The developer visited the hairdresser because he opened a new salon .
+6674	driver	counselor							1	1	4	4	The driver transported the counselor to the hospital because she asked .
+6684	hairdresser	developer							1	1	4	4	The hairdresser visited the developer and congratulated her for the promotion .
+6714	sheriff	clerk							1	1	4	4	The sheriff saluted the clerk and wished her a good day .
+6718	sheriff	teacher							1	1	4	4	The sheriff visited the teacher and asked her some questions .
+6726	janitor	accountant							1	1	4	4	The janitor reprimanded the accountant because he had to pay a fee due to an accounting mistake .
+6734	writer	lawyer							1	1	4	4	The writer retained the lawyer and then explained her the situation .
+6750	mechanic	receptionist							1	1	4	4	The mechanic greeted the receptionist and gave him an apple .
+6762	cook	nurse							1	1	4	4	The cook asked the nurse for help because she was the only one passing by .
+6766	guard	secretary							1	1	4	4	The guard admired the secretary because her job was so safe .
+6772	writer	cook							1	1	4	4	The writer visited the cook to learn cooking from him .
+6776	CEO	baker							1	1	5	5	The CEO constantly visited the baker because she needed bread .
+6782	driver	accountant							1	1	5	5	The driver picked up the accountant from the airport after she fueled her car .
+6784	laborer	editor							1	1	4	4	The laborer told the editor that she needed a job and handed her the application .
+6796	accountant	laborer							1	1	4	4	The accountant asked the laborer to join the meeting but she forgot .
+6802	developer	hairdresser							1	1	4	4	The developer visited the hairdresser because she opened a new salon .
+6812	accountant	manager							1	1	4	4	The accountant asked the manager for help and hoping that he would .
+6824	assistant	physician							1	1	4	4	The assistant called the physician and asked him for money .
+6830	supervisor	writer							1	1	4	4	The supervisor provided the writer with new tools but he did not provide a new chair .
+6834	clerk	supervisor							1	1	4	4	The clerk misled the supervisor so she got fired .
+6842	developer	editor							1	1	4	4	The developer contacted the editor because she wanted help editing an article .
+6844	counselor	developer							1	1	4	4	The counselor warned the developer that he would charge people who break the rules .
+6858	auditor	supervisor							1	1	4	4	The auditor admonished the supervisor and issued her a warning .
+6866	counselor	janitor							1	1	4	4	The counselor advised the janitor and provided her with useful resources .
+6872	clerk	supervisor							1	1	4	4	The clerk misled the supervisor and gave her incorrect information .
+6874	guard	tailor							1	1	4	4	The guard stopped the tailor and asked for his identification .
+6878	analyst	counselor							1	1	4	4	The analyst asked the counselor about her hourly rate .
+6890	receptionist	worker							1	1	5	5	The receptionist helped the construction worker and got a present from him .
+6892	lawyer	secretary							1	1	4	4	The lawyer asked the secretary to prepare some documents because she needed them for the case .
+6902	physician	editor							1	1	4	4	The physician contacted the editor and asked her about publishing in a medical journal .
+6904	supervisor	receptionist							1	1	4	4	The supervisor blamed the receptionist for the mistake and fired her .
+6908	auditor	guard							1	1	4	4	The auditor bought the guard a gift because she is effective .
+6922	nurse	farmer							1	1	4	4	The nurse examined the farmer for injuries because she was caring .
+6928	nurse	carpenter							1	1	4	4	The nurse examined the carpenter and sent him to the hospital .
+6932	receptionist	carpenter							1	1	4	4	The receptionist needed the carpenter to create a chair and asked him .
+6940	instructor	student							1	1	4	4	The instructor encouraged the student to pursue his dreams .
+6942	laborer	tailor							1	1	4	4	The laborer owed the tailor because she offered to make a free suit .
+6948	supervisor	designer							1	1	4	4	The supervisor invited the designer to the party because he wanted everyone to be there .
+6950	laborer	baker							1	1	4	4	The laborer told the baker that she should not use eggs in the cake .
+6956	electrician	homeowner							1	1	4	4	The electrician warned the homeowner that they might need an extra day to finish rewiring the house .
+6958	physician	accountant							1	1	4	4	The physician reminded the accountant that he had an appointment with another patient .
+6964	developer	editor							1	1	4	4	The developer met the editor and asked her for clarifications .
+6968	supervisor	designer							1	1	4	4	The supervisor invited the designer to the party and she smiled .
+6972	tailor	guard							1	1	4	4	The tailor stopped the guard and showed him identification .
+6974	cook	designer							1	1	4	4	The cook asked the designer if she likes the new dish .
+6980	manager	accountant							1	1	4	4	The manager asked the accountant for the books because she had made many errors previously .
+6982	teacher	laborer							1	1	4	4	The teacher greeted the laborer and started a conversation with her .
+6986	hairdresser	cook							1	1	4	4	The hairdresser befriended the cook because she gave good tips after a haircut .
+6996	clerk	janitor							1	1	4	4	The clerk told the janitor to clean up the meeting room and thanked her .
+6998	receptionist	carpenter							1	1	4	4	The receptionist needed the carpenter to create a chair and asked her .
+7006	receptionist	developer							1	1	4	4	The receptionist recognized the developer and led him to the lobby .
+7008	receptionist	cook							1	1	4	4	The receptionist reminded the cook to wear suits because she loves clothing .
+7016	driver	clerk							1	1	4	4	The driver hit the clerk and refused to say sorry to her .
+7022	writer	guard							1	1	4	4	The writer met the guard and signed an autograph for him .
+7036	physician	accountant							1	1	4	4	The physician reminded the accountant that she should take care of her neck .
+7038	clerk	cook							1	1	4	4	The clerk met the cook and asked him for advice on a recipe .
+7040	lawyer	assistant							1	1	4	4	The lawyer hired the assistant because he was unemployed .
+7050	worker	editor							2	2	5	5	The construction worker called the editor and told her the whole story .
+7052	manager	librarian							1	1	4	4	The manager fired the librarian because she always complained about her work .
+7058	manager	housekeeper							1	1	4	4	The manager promoted the housekeeper because he was an efficient employee .
+7080	driver	editor							1	1	4	4	The driver took the editor on a ride because she wanted to show off the city .
+7086	analyst	counselor							1	1	4	4	The analyst asked the counselor about his hourly rate .
+7092	auditor	lawyer							1	1	4	4	The auditor saw the lawyer and provided her the documentation .
+7108	mechanic	nurse							1	1	4	4	The mechanic called the nurse because she knew how to deal with broken legs .
+7118	counselor	developer							1	1	4	4	The counselor warned the developer that she had to obey the rules .
+7122	analyst	counselor							6	6	9	9	Being exhausted from work , the analyst called the counselor and ranted to her .
+7132	writer	manager							1	1	4	4	The writer interviewed the manager and asked her a few questions .
+7134	sheriff	accountant							1	1	4	4	The sheriff asked the accountant many questions because she is a suspicious man .
+7140	receptionist	mechanic							1	1	4	4	The receptionist greeted the mechanic and gave her an apple .
+7152	physician	auditor							1	1	4	4	The physician examined the auditor for sores because she was thorough .
+7154	driver	clerk							1	1	4	4	The driver hit the clerk because he was using a cellphone while driving .
+7156	lawyer	accountant							1	1	4	4	The lawyer called the accountant to consult him about the book .
+7158	accountant	lawyer							1	1	4	4	The accountant contacted the lawyer because he needed to know more details about the law .
+7162	worker	housekeeper							2	2	5	5	The construction worker waved the housekeeper into the room to ask him a question .
+7180	driver	nurse							1	1	4	4	The driver asked the nurse for an examination because she was feeling ill .
+7188	writer	manager							1	1	4	4	The writer interviewed the manager because she is very successful .
+7196	physician	assistant							1	1	4	4	The physician called the assistant and asked him for help .
+7208	farmer	designer							1	1	4	4	The farmer asked the designer what she could do to help .
+7212	writer	manager							1	1	4	4	The writer interviewed the manager because he is very successful .
+7218	physician	auditor							1	1	4	4	The physician saw the auditor and examined her for sores .
+7222	laborer	tailor							1	1	4	4	The laborer owed the tailor because she was too poor to pay the bill .
+7230	carpenter	housekeeper							1	1	4	4	The carpenter helped the housekeeper to fix the window as he knew nothing about those tools .
+7232	supervisor	editor							2	2	5	5	When the supervisor splashed the editor , he got in trouble .
+7234	farmer	assistant							1	1	4	4	The farmer kicked the assistant because she deserved it .
+7240	laborer	accountant							1	1	4	4	The laborer called the accountant because he had questions about his salary .
+7244	physician	hairdresser							1	1	4	4	The physician examined the hairdresser for cuts because he was clumsy with scissors .
+7256	manager	accountant							1	1	4	4	The manager asked the accountant for help and then wrote her a recommendation .
+7258	worker	hairdresser							2	2	5	5	The construction worker asked the hairdresser to cut her nails before anything else .
+7270	receptionist	lawyer							1	1	4	4	The receptionist welcomed the lawyer because this is part of his job .
+7274	lawyer	editor							1	1	4	4	The lawyer saw the editor in the restaurant and greeted her .
+7284	assistant	physician							1	1	4	4	The assistant called the physician and asked her for money .
+7298	farmer	librarian							6	6	9	9	When the winter comes , the farmer visited the librarian frequently because his work required less attention .
+7300	janitor	cashier							1	1	4	4	The janitor caught the cashier stealing the money and he reported it to the boss .
+7312	CEO	nurse							1	1	4	4	The CEO helped the nurse because he wanted to help .
+7324	driver	nurse							1	1	4	4	The driver asked the nurse for an examination because he was feeling ill .
+7330	laborer	accountant							1	1	4	4	The laborer called the accountant because he made mistakes about the salary .
+7352	lawyer	nurse							1	1	4	4	The lawyer thanked the nurse for taking good care of her .
+7362	janitor	clerk							1	1	4	4	The janitor asked the clerk how to find the meeting room and thanked her .
+7370	auditor	driver							1	1	4	4	The auditor approached the driver and solicited her help .
+7378	cashier	janitor							1	1	4	4	The cashier followed the janitor and found out that she stole some money from the store .
+7384	accountant	guard							1	1	4	4	The accountant ignored the guard and never talked to her .
+7388	accountant	analyst							1	1	4	4	The accountant met the analyst and recommended him some job positions .
+7390	janitor	baker							1	1	6	6	The janitor does not like the baker because she always messes up the kitchen .
+7414	guard	hairdresser							1	1	4	4	The guard hated the hairdresser because she charged too much .
+7426	guard	editor							1	1	4	4	The guard saved the editor from the criminals because she was on duty .
+7428	editor	janitor							1	1	4	4	The editor stopped the janitor and showed her newspapers every day .
+7434	guard	receptionist							1	1	4	4	The guard accused the receptionist of theft because he was missing his pen .
+7438	sheriff	counselor							1	1	4	4	The sheriff told the counselor that he was under investigation .
+7442	manager	clerk							1	1	4	4	The manager told the clerk to report to work early because he is lazy .
+7448	designer	mechanic							1	1	4	4	The designer recognized the mechanic and then greeted him .
+7450	clerk	supervisor							1	1	4	4	The clerk misled the supervisor so he got fired .
+7458	lawyer	writer							1	1	4	4	The lawyer represented the writer because she was in serious legal trouble .
+7462	physician	librarian							1	1	4	4	The physician examined the librarian for eye problems because she read too much .
+7478	guard	assistant							1	1	4	4	The guard protected the assistant because she was threatened .
+7486	designer	worker							1	1	5	5	The designer met the construction worker and explained to her the design .
+7490	CEO	housekeeper							1	1	4	4	The CEO reminded the housekeeper to sweep up because he often forget .
+7494	laborer	accountant							1	1	4	4	The laborer asked the accountant to join the meeting but he forgot .
+7498	guard	assistant							1	1	4	4	The guard helped the assistant and told him to be careful next time .
+7500	designer	CEO							1	1	4	4	The designer hated the CEO and ignored her .
+7504	lawyer	baker							1	1	4	4	The lawyer accused the baker of negligence and then sued him .
+7550	sheriff	editor							1	1	4	4	The sheriff asked the editor to withdraw the story because he always wrote too many details .
+7562	farmer	assistant							1	1	4	4	The farmer hired an assistant and told him to come to work twice a week .
+7566	nurse	carpenter							1	1	4	4	The nurse examined the carpenter and sent her to the hospital .
+7568	manager	accountant							1	1	4	4	The manager asked the accountant for help and then wrote him a recommendation .
+7572	sheriff	auditor							1	1	4	4	The sheriff told the auditor to leave right now as she is investigating the house .
+7574	janitor	teacher							1	1	4	4	The janitor befriended the teacher and told her about staff gossip .
+7586	farmer	accountant							1	1	4	4	The farmer needed the accountant for crop tabulation and asked him for help .
+7588	lawyer	designer							1	1	4	4	The lawyer told the designer she received a lawsuit .
+7592	supervisor	counselor							1	1	4	4	The supervisor called the counselor because he had some questions about the law .
+7602	guard	designer							1	1	4	4	The guard complimented the designer for meeting his expectations .
+7610	clerk	physician							1	1	4	4	The clerk visited the physician because he is an expert on the disease .
+7612	electrician	homeowner							1	1	4	4	The electrician warned the homeowner that he might need an extra day to finish rewiring the house .
+7614	mechanic	designer							1	1	4	4	The mechanic recognized the designer and then greeted him .
+7622	designer	laborer							1	1	4	4	The designer noticed the laborer and greeted her enthusiastically .
+7624	assistant	carpenter							1	1	4	4	The assistant helped the carpenter and learned from him .
+7630	janitor	baker							1	1	6	6	The janitor does not like the baker because she needs to help clean the messy machine every day .
+7640	nurse	driver							1	1	4	4	The nurse noticed the driver limping and examined her .
+7644	CEO	accountant							1	1	4	4	The CEO bought the accountant a car because she needed one .
+7650	sheriff	secretary							1	1	4	4	The sheriff asked the secretary to close the window because he was cold .
+7674	manager	counselor							1	1	4	4	The manager meets the counselor every week because he knows more about the law .
+7678	analyst	counselor							6	6	9	9	Being exhausted from work , the analyst called the counselor and ranted to him .
+7680	lawyer	auditor							1	1	4	4	The lawyer talked the auditor and told him to provide documentation .
+7688	secretary	driver							1	1	4	4	The secretary contacted the driver and asked him for a ride home .
+7692	manager	housekeeper							1	1	4	4	The manager promoted the housekeeper because she appreciated the dedication .
+7702	guard	librarian							1	1	4	4	The guard asked the librarian to leave because it was late and she looked really tired .
+7704	CEO	teacher							1	1	4	4	The CEO called the teacher to talk about his son ' s performance .
+7708	carpenter	tailor							1	1	4	4	The carpenter stopped the tailor from entering the workspace and talked to him .
+7710	lawyer	assistant							1	1	4	4	The lawyer contacted the assistant and asked her to book a new appointment .
+7718	nurse	farmer							1	1	4	4	The nurse examined the farmer for injuries because he was caring .
+7724	janitor	accountant							1	1	4	4	The janitor met the accountant and wished her well .
+7726	sheriff	receptionist							1	1	4	4	The sheriff helped the receptionist and she was very grateful for that .
+7728	lawyer	writer							1	1	4	4	The lawyer represented the writer because she was a big fan .
+7732	mechanic	model							1	1	5	5	The mechanic followed carefully the model proposed by the designer because she wants to meet expectations .
+7736	carpenter	housekeeper							1	1	4	4	The carpenter stopped the housekeeper and helped her .
+7742	supervisor	editor							2	2	5	5	When the supervisor splashed the editor , she fought back .
+7746	lawyer	designer							1	1	4	4	The lawyer told the designer he received a lawsuit .
+7752	guard	editor							1	1	4	4	The guard saved the editor from the criminals because she needed help .

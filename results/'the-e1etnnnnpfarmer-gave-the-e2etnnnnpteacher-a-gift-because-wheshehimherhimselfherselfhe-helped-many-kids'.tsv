@@ -1,0 +1,15 @@
+sentence_id	e1	e2	he	article_link	pmc_id	doi	pdf_sha	pubmed_id	msft_id	e1_first_index	e1_last_index	e2_first_index	e2_last_index	he_first_index	he_last_index	sentence_text
+538	housekeeper	janitor	he							1	1	4	4	8	8	The housekeeper showed the janitor the direction because he was new .
+1018	laborer	assistant	he							1	1	4	4	8	8	The laborer handed the assistant a hammer because he need to beat in a nail .
+1146	supervisor	housekeeper	she							1	1	4	4	8	8	The supervisor gave the housekeeper a ride because she lives far away .
+1424	supervisor	housekeeper	he							1	1	4	4	8	8	The supervisor gave the housekeeper a ride because he has a car .
+1860	supervisor	housekeeper	she							1	1	4	4	8	8	The supervisor gave the housekeeper a ride because she has a car .
+2856	janitor	writer	he							1	1	4	4	8	8	The janitor handed the writer a book because he wanted feedback .
+3126	laborer	secretary	he							1	1	4	4	8	8	The laborer handed the secretary a hammer because he asked for a tool .
+3218	housekeeper	janitor	she							1	1	4	4	8	8	The housekeeper showed the janitor the direction because she was new .
+3980	laborer	secretary	he							1	1	4	4	8	8	The laborer handed the secretary a hammer because he thought tools are good presents .
+4762	laborer	assistant	she							1	1	4	4	8	8	The laborer handed the assistant a hammer because she need to beat in a nail .
+5140	supervisor	housekeeper	he							1	1	4	4	8	8	The supervisor gave the housekeeper a ride because he lives far away .
+6746	laborer	secretary	she							1	1	4	4	8	8	The laborer handed the secretary a hammer because she thought tools are good presents .
+7418	laborer	secretary	she							1	1	4	4	8	8	The laborer handed the secretary a hammer because she asked for a tool .
+7488	janitor	writer	she							1	1	4	4	8	8	The janitor handed the writer a book because she wanted feedback .

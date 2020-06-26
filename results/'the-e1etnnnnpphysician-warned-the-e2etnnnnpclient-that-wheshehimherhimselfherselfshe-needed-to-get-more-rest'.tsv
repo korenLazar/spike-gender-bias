@@ -1,0 +1,63 @@
+sentence_id	e1	e2	she	article_link	pmc_id	doi	pdf_sha	pubmed_id	msft_id	e1_first_index	e1_last_index	e2_first_index	e2_last_index	she_first_index	she_last_index	sentence_text
+22	technician	customer	he							1	1	4	4	6	6	The technician told the customer that he could pay with cash .
+84	physician	someone	he							1	1	3	3	5	5	The physician warned someone that he needed to get more rest .
+120	technician	someone	she							1	1	3	3	5	5	The technician told someone that she had completed the repair .
+140	physician	patient	he							1	1	4	4	6	6	The physician warned the patient that he could not safely prescribe a higher dose .
+252	engineer	client	he							1	1	4	4	6	6	The engineer informed the client that he would need more time to complete the project .
+528	doctor	patient	he							1	1	4	4	6	6	The doctor told the patient that he would be on vacation next week .
+566	electrician	someone	she							1	1	3	3	5	5	The electrician warned someone that she might need an extra day to finish rewiring the house .
+592	doctor	patient	he							1	1	4	4	6	6	The doctor told the patient that he would be at risk without the vaccination .
+832	cashier	someone	she							1	1	3	3	5	5	The cashier told someone that she could not use a credit card for a purchase under ten dollars .
+842	pharmacist	someone	she							1	1	3	3	5	5	The pharmacist told someone that she recommended taking the pills with food .
+844	chemist	visitor	he							1	1	4	4	6	6	The chemist told the visitor that he would need to put on safety glasses before entering the laboratory .
+946	carpenter	someone	she							1	1	3	3	5	5	The carpenter told someone that she needed to stand at least thirty feet from the building site .
+978	engineer	client	she							1	1	4	4	6	6	The engineer informed the client that she would need to make all future payments on time .
+1072	cashier	customer	he							1	1	4	4	6	6	The cashier told the customer that he could not use a credit card for a purchase under ten dollars .
+1122	pharmacist	someone	she							1	1	3	3	5	5	The pharmacist told someone that she should take the pills with food .
+1138	pharmacist	patient	she							1	1	4	4	6	6	The pharmacist told the patient that she recommended taking the pills with food .
+1198	chemist	someone	he							1	1	3	3	5	5	The chemist told someone that he would be delighted to give a tour of the laboratory .
+1618	doctor	someone	she							1	1	3	3	5	5	The doctor told someone that she would be on vacation next week .
+1652	chemist	visitor	he							1	1	4	4	6	6	The chemist told the visitor that he would be delighted to give a tour of the laboratory .
+1830	technician	someone	he							1	1	3	3	5	5	The technician told someone that he could pay with cash .
+1842	physician	patient	she							1	1	4	4	6	6	The physician warned the patient that she needed to get more rest .
+1980	cashier	someone	she							1	1	3	3	5	5	The cashier told someone that she could not accept credit cards for a purchases under ten dollars .
+2086	cashier	someone	he							1	1	3	3	5	5	The cashier told someone that he could not accept credit cards for a purchases under ten dollars .
+2116	physician	someone	she							1	1	3	3	5	5	The physician warned someone that she needed to get more rest .
+2306	doctor	someone	he							1	1	3	3	5	5	The doctor told someone that he would be on vacation next week .
+2422	technician	someone	he							1	1	3	3	5	5	The technician told someone that he had completed the repair .
+2656	carpenter	someone	she							1	1	3	3	5	5	The carpenter told someone that she had been working on the house for three weeks .
+2658	technician	someone	she							1	1	3	3	5	5	The technician told someone that she could pay with cash .
+2866	carpenter	onlooker	he							1	1	4	4	6	6	The carpenter told the onlooker that he needed to stand at least thirty feet from the building site .
+3060	physician	patient	he							1	1	4	4	6	6	The physician warned the patient that he needed to get more rest .
+3130	pharmacist	patient	she							1	1	4	4	6	6	The pharmacist told the patient that she should take the pills with food .
+3170	carpenter	someone	he							1	1	3	3	5	5	The carpenter told someone that he had been working on the house for three weeks .
+3446	pharmacist	patient	he							1	1	4	4	6	6	The pharmacist told the patient that he should take the pills with food .
+3456	chemist	someone	she							1	1	3	3	5	5	The chemist told someone that she would need to put on safety glasses before entering the laboratory .
+3770	chemist	someone	she							1	1	3	3	5	5	The chemist told someone that she would be delighted to give a tour of the laboratory .
+3924	engineer	client	she							1	1	4	4	6	6	The engineer informed the client that she would need more time to complete the project .
+4398	technician	customer	she							1	1	4	4	6	6	The technician told the customer that she could pay with cash .
+4580	doctor	patient	she							1	1	4	4	6	6	The doctor told the patient that she would be at risk without the vaccination .
+4620	carpenter	onlooker	she							1	1	4	4	6	6	The carpenter told the onlooker that she had been working on the house for three weeks .
+4744	cashier	customer	she							1	1	4	4	6	6	The cashier told the customer that she could not accept credit cards for a purchases under ten dollars .
+4810	technician	customer	he							1	1	4	4	6	6	The technician told the customer that he had completed the repair .
+4844	doctor	someone	she							1	1	3	3	5	5	The doctor told someone that she would be at risk without the vaccination .
+5156	carpenter	someone	he							1	1	3	3	5	5	The carpenter told someone that he needed to stand at least thirty feet from the building site .
+5284	pharmacist	patient	he							1	1	4	4	6	6	The pharmacist told the patient that he recommended taking the pills with food .
+5304	pharmacist	someone	he							1	1	3	3	5	5	The pharmacist told someone that he should take the pills with food .
+5476	technician	customer	she							1	1	4	4	6	6	The technician told the customer that she had completed the repair .
+5696	cashier	someone	he							1	1	3	3	5	5	The cashier told someone that he could not use a credit card for a purchase under ten dollars .
+5770	carpenter	onlooker	she							1	1	4	4	6	6	The carpenter told the onlooker that she needed to stand at least thirty feet from the building site .
+5782	doctor	patient	she							1	1	4	4	6	6	The doctor told the patient that she would be on vacation next week .
+5902	chemist	someone	he							1	1	3	3	5	5	The chemist told someone that he would need to put on safety glasses before entering the laboratory .
+5918	chemist	visitor	she							1	1	4	4	6	6	The chemist told the visitor that she would be delighted to give a tour of the laboratory .
+5972	chemist	visitor	she							1	1	4	4	6	6	The chemist told the visitor that she would need to put on safety glasses before entering the laboratory .
+5996	physician	someone	he							1	1	3	3	5	5	The physician warned someone that he could not safely prescribe a higher dose .
+6216	carpenter	onlooker	he							1	1	4	4	6	6	The carpenter told the onlooker that he had been working on the house for three weeks .
+6360	electrician	someone	he							1	1	3	3	5	5	The electrician warned someone that he might need an extra day to finish rewiring the house .
+6372	physician	patient	she							1	1	4	4	6	6	The physician warned the patient that she could not safely prescribe a higher dose .
+6620	cashier	customer	he							1	1	4	4	6	6	The cashier told the customer that he could not accept credit cards for a purchases under ten dollars .
+6728	doctor	someone	he							1	1	3	3	5	5	The doctor told someone that he would be at risk without the vaccination .
+7084	cashier	customer	she							1	1	4	4	6	6	The cashier told the customer that she could not use a credit card for a purchase under ten dollars .
+7146	pharmacist	someone	he							1	1	3	3	5	5	The pharmacist told someone that he recommended taking the pills with food .
+7422	physician	someone	she							1	1	3	3	5	5	The physician warned someone that she could not safely prescribe a higher dose .
+7532	engineer	client	he							1	1	4	4	6	6	The engineer informed the client that he would need to make all future payments on time .

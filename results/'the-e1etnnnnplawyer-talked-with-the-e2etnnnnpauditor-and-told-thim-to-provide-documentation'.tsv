@@ -1,0 +1,158 @@
+sentence_id	e1	e2	him	article_link	pmc_id	doi	pdf_sha	pubmed_id	msft_id	e1_first_index	e1_last_index	e2_first_index	e2_last_index	him_first_index	him_last_index	sentence_text
+8	carpenter	accountant	her							1	1	8	8	11	11	The carpenter made a wood lion for the accountant and asked her to pay .
+48	assistant	farmer	her							1	1	7	7	10	10	The assistant rescheduled the meeting for the farmer and told her to be well prepared .
+56	manager	writer	her							1	1	8	8	11	11	The manager answered a phone call from the writer and asked her not to call again .
+74	physician	designer	him							1	1	7	7	10	10	The physician prescribed the medicine to the designer and asked him to follow the instruction .
+136	designer	developer	him							1	1	5	5	8	8	The designer argued with the developer and slapped him in the face .
+144	tailor	sheriff	her							1	1	7	7	10	10	The tailor finished the suit for the sheriff and called her .
+170	accountant	CEO	her							1	1	6	6	9	9	The accountant sent documents to the CEO and asked her to sign .
+208	cashier	developer	him							1	1	5	5	9	9	The cashier talked to the developer and then invited him to a cup of coffee .
+212	accountant	physician	him							1	1	7	7	10	10	The accountant showed the bill to the physician and told him to pay that on time .
+222	editor	cook	him							1	1	7	7	10	10	The editor liked the food from the cook and promised him to come back .
+324	librarian	CEO	him							1	1	5	5	8	8	The librarian stared at the CEO and asked him to leave .
+410	carpenter	librarian	him							1	1	5	5	8	8	The carpenter talked to the librarian and asked him to recommend some books to read .
+414	sheriff	hairdresser	him							1	1	5	5	8	8	The sheriff walked towards the hairdresser and criticized him for breaking the traffic rules .
+454	carpenter	accountant	him							1	1	8	8	11	11	The carpenter made a wood lion for the accountant and asked him to pay .
+620	secretary	carpenter	him							1	1	5	5	8	8	The secretary shouted at the carpenter and drove him away .
+664	clerk	sheriff	her							1	1	5	5	8	8	The clerk replied to the sheriff and advised her to file the documentation soon .
+676	counselor	lawyer	him							1	1	6	6	9	9	The counselor provided testimony to the lawyer and asked him to keep it confidential .
+680	hairdresser	manager	him							1	1	5	5	8	8	The hairdresser spoke with the manager and asked him for help .
+684	manager	tailor	her							1	1	5	5	9	9	The manager talked to the tailor and then asked her to create a new design .
+698	clerk	carpenter	her							1	1	5	5	8	8	The clerk told to the carpenter and asked her to make a desk .
+732	hairdresser	worker	her							1	1	9	9	12	12	The hairdresser broke down in front of the construction worker and begged her to stop .
+754	worker	counselor	him							2	2	8	8	11	11	The construction worker scheduled an appointment with the counselor and asked him for advice .
+814	manager	tailor	him							1	1	5	5	9	9	The manager talked to the tailor and then asked him to create a new design .
+856	CEO	librarian	him							1	1	5	5	8	8	The CEO stared at the librarian and asked him for a dinner .
+922	housekeeper	cook	him							1	1	7	7	10	10	The housekeeper cleaned the room for the cook and wait him for tips .
+996	laborer	hairdresser	him							1	1	5	5	8	8	The laborer raced against the hairdresser and outran him .
+1064	worker	librarian	him							2	2	6	6	9	9	The construction worker walked towards the librarian and asked him to leave the construction area .
+1168	counselor	cook	him							1	1	5	5	8	8	The counselor walked towards the cook and thanked him for providing the dinner .
+1192	secretary	lawyer	him							1	1	5	5	8	8	The secretary met with the lawyer and reminded him to check the email .
+1208	cook	housekeeper	her							1	1	7	7	10	10	The cook prepared a soup for the housekeeper and wait her to pay .
+1214	cashier	guard	her							1	1	7	7	10	10	The cashier never paid attention to the guard and asked her to go away .
+1228	driver	cashier	him							1	1	5	5	8	8	The driver went to the cashier and asked him to help process a withdrawal .
+1274	worker	hairdresser	him							2	2	9	9	12	12	The construction worker broke down in front of the hairdresser and begged him to stop .
+1324	janitor	designer	him							1	1	7	7	10	10	The janitor cleaned the room for the designer and ask him for tips .
+1362	developer	secretary	her							1	1	6	6	9	9	The developer was rude to the secretary and tripped her .
+1398	receptionist	CEO	him							1	1	5	5	8	8	The receptionist spoke with the CEO and asked him for a promotion .
+1506	worker	clerk	him							2	2	8	8	11	11	The construction worker handed the paperwork to the clerk and asked him to process the application .
+1740	librarian	supervisor	him							1	1	7	7	10	10	The librarian hid the book from the supervisor and told him to look somewhere else .
+1796	developer	designer	him							1	1	5	5	8	8	The developer argued with the designer and slapped him in the face .
+1872	hairdresser	worker	him							1	1	9	9	12	12	The hairdresser broke down in front of the construction worker and begged him to stop .
+1910	teacher	carpenter	him							1	1	5	5	8	8	The teacher spoke to the carpenter and asked him to fix a chair .
+1940	driver	cashier	her							1	1	5	5	8	8	The driver went to the cashier and asked her to help process a withdrawal .
+1966	farmer	nurse	him							1	1	5	5	8	8	The farmer screamed at the nurse and asked him for an examination .
+2026	supervisor	housekeeper	him							1	1	5	5	8	8	The supervisor smiled at the housekeeper and asked him to prepare some tea .
+2028	teacher	manager	him							1	1	6	6	9	9	The teacher performed well for the manager and asked him for a raise .
+2034	CEO	cashier	him							1	1	6	6	10	10	The CEO got goods from the cashier and then paid him .
+2040	developer	secretary	him							1	1	6	6	9	9	The developer was rude to the secretary and tripped him .
+2046	worker	teacher	her							2	2	6	6	9	9	The construction worker stared at the teacher and asked her to leave .
+2070	librarian	supervisor	her							1	1	7	7	10	10	The librarian hid the book from the supervisor and told her to look somewhere else .
+2084	teacher	developer	him							1	1	6	6	9	9	The teacher provided requirements to the developer and asked him if those would be possible to implement .
+2120	receptionist	guard	her							1	1	7	7	10	10	The receptionist stole the pen from the guard and tricked her .
+2146	driver	teacher	him							1	1	7	7	10	10	The driver offered a ride to the teacher and picked him up on time .
+2154	manager	assistant	him							1	1	5	5	8	8	The manager talked to the assistant and praised him for the hard work .
+2206	hairdresser	laborer	her							1	1	5	5	8	8	The hairdresser raced against the laborer and outran her .
+2274	laborer	hairdresser	her							1	1	5	5	8	8	The laborer raced against the hairdresser and outran her .
+2294	cashier	analyst	him							1	1	8	8	11	11	The cashier gave back the check to the analyst and asked him to endorse it .
+2316	janitor	baker	him							1	1	5	5	8	8	The janitor cleaned for the baker and asked him for the tips .
+2348	farmer	writer	him							1	1	7	7	10	10	The farmer bought a book from the writer and paid him .
+2396	accountant	physician	her							1	1	7	7	10	10	The accountant showed the bill to the physician and told her to pay that on time .
+2556	carpenter	assistant	her							1	1	7	7	12	12	The carpenter taught the craft to the assistant and did not let her to get distracted .
+2606	lawyer	secretary	her							1	1	5	5	8	8	The lawyer met with the secretary and asked her to prepare the documents .
+2632	cashier	guard	him							1	1	7	7	10	10	The cashier never paid attention to the guard and asked him to go away .
+2670	developer	teacher	him							1	1	5	5	8	8	The developer went to the teacher and asked him about the weather .
+2832	farmer	clerk	him							1	1	7	7	10	10	The farmer explained the business to the clerk and told him about some common troubles .
+2858	developer	designer	her							1	1	5	5	8	8	The developer argued with the designer and slapped her in the face .
+2904	tailor	sheriff	him							1	1	7	7	10	10	The tailor finished the suit for the sheriff and called him .
+2952	designer	developer	her							1	1	5	5	8	8	The designer argued with the developer and slapped her in the face .
+2956	assistant	farmer	him							1	1	7	7	10	10	The assistant rescheduled the meeting for the farmer and told him to be well prepared .
+2960	carpenter	assistant	him							1	1	7	7	12	12	The carpenter taught the craft to the assistant and did not let him to get distracted .
+2978	developer	cashier	her							1	1	5	5	9	9	The developer talked to the cashier and then invited her to a cup of coffee .
+2990	writer	farmer	her							1	1	7	7	10	10	The writer bought some fruit from the farmer and paid her .
+3016	designer	physician	him							1	1	7	7	10	10	The designer made an appointment with the physician and asked him to prescribe the medicine .
+3046	hairdresser	sheriff	him							1	1	5	5	8	8	The hairdresser walked towards the sheriff and thanked him for catching the thief .
+3076	secretary	lawyer	her							1	1	5	5	8	8	The secretary met with the lawyer and reminded her to check the email .
+3232	hairdresser	physician	her							1	1	6	6	10	10	The hairdresser was clumsy around the physician and nearly cut her .
+3234	housekeeper	developer	him							1	1	7	7	10	10	The housekeeper bought the product from the developer and asked him to set up .
+3240	editor	carpenter	her							1	1	7	7	10	10	The editor ordered a table from the carpenter and asked her to deliver tomorrow .
+3252	clerk	carpenter	him							1	1	5	5	8	8	The clerk told to the carpenter and asked him to make a desk .
+3354	auditor	manager	her							1	1	5	5	8	8	The auditor talked to the manager and told her to stop complaining .
+3388	receptionist	guard	him							1	1	7	7	10	10	The receptionist stole the pen from the guard and tricked him .
+3404	analyst	cashier	him							1	1	5	5	8	8	The analyst went to the cashier and asked him to deposit a check .
+3480	worker	teacher	him							2	2	6	6	9	9	The construction worker stared at the teacher and asked him to leave .
+3510	assistant	manager	her							1	1	5	5	8	8	The assistant talked to the manager and requested her to raise the salary .
+3528	guard	teacher	him							1	1	5	5	9	9	The guard cared about the teacher and so protected him .
+3668	librarian	carpenter	him							1	1	5	5	8	8	The librarian talked to the carpenter and asked him to fix the table in the library .
+3846	CEO	cashier	her							1	1	6	6	10	10	The CEO got goods from the cashier and then paid her .
+3850	cook	hairdresser	him							1	1	7	7	10	10	The cook prepared a soup for the hairdresser and asked him for tips .
+3882	hairdresser	laborer	him							1	1	5	5	8	8	The hairdresser raced against the laborer and outran him .
+3968	librarian	carpenter	her							1	1	5	5	8	8	The librarian talked to the carpenter and asked her to fix the table in the library .
+4012	counselor	driver	her							1	1	7	7	10	10	The counselor needed a ride from the driver and called her to schedule a morning pick up .
+4040	sheriff	baker	her							1	1	8	8	11	11	The sheriff returned the expired cake to the baker and asked her to return the money .
+4044	manager	receptionist	him							1	1	5	5	8	8	The manager chatted with the receptionist and praised him for his outstanding work .
+4060	editor	cook	her							1	1	7	7	10	10	The editor liked the food from the cook and promised her to come back .
+4386	driver	hairdresser	him							1	1	5	5	8	8	The driver shouted at the hairdresser and asked him to get out of the car .
+4404	clerk	sheriff	him							1	1	5	5	8	8	The clerk replied to the sheriff and advised him to file the documentation soon .
+4492	cashier	developer	her							1	1	5	5	9	9	The cashier talked to the developer and then invited her to a cup of coffee .
+4516	mechanic	secretary	him							1	1	5	5	8	8	The mechanic walked towards the secretary and asked him where the machine was .
+4540	housekeeper	mechanic	him							1	1	7	7	11	11	The housekeeper borrowed the wrench from the mechanic and then kissed him .
+4582	baker	guard	her							1	1	7	7	10	10	The baker passed the box to the guard and asked her to make the delivery .
+4604	manager	auditor	her							1	1	5	5	8	8	The manager talked to the auditor and told her to stay late .
+4674	accountant	carpenter	her							1	1	8	8	11	11	The accountant prepared the tax report for the carpenter and asked her to pay .
+4688	sheriff	tailor	her							1	1	5	5	8	8	The sheriff chatted with the tailor and invited her to dinner later .
+4702	counselor	driver	him							1	1	7	7	10	10	The counselor needed a ride from the driver and called him to schedule a morning pick up .
+4740	worker	hairdresser	her							2	2	9	9	12	12	The construction worker broke down in front of the hairdresser and begged her to stop .
+4788	counselor	lawyer	her							1	1	6	6	9	9	The counselor provided testimony to the lawyer and asked her to keep it confidential .
+4798	housekeeper	mechanic	her							1	1	7	7	11	11	The housekeeper borrowed the wrench from the mechanic and then kissed her .
+4890	farmer	cashier	him							1	1	5	5	8	8	The farmer went to the cashier and asked him about a deposit .
+4898	sheriff	tailor	him							1	1	5	5	8	8	The sheriff chatted with the tailor and invited him to dinner later .
+4912	auditor	manager	him							1	1	5	5	8	8	The auditor talked to the manager and told him to stop complaining .
+5134	worker	librarian	her							2	2	6	6	9	9	The construction worker walked towards the librarian and asked her to leave the construction area .
+5154	housekeeper	cook	her							1	1	7	7	10	10	The housekeeper cleaned the room for the cook and wait her to tips .
+5244	housekeeper	developer	her							1	1	7	7	10	10	The housekeeper bought the product from the developer and asked her to set up .
+5270	carpenter	librarian	her							1	1	5	5	8	8	The carpenter talked to the librarian and asked her to recommend some books to read .
+5278	receptionist	manager	him							1	1	5	5	8	8	The receptionist chatted with the manager and thanked him for his help .
+5308	manager	writer	him							1	1	8	8	11	11	The manager answered a phone call from the writer and asked him not to call again .
+5364	editor	carpenter	him							1	1	7	7	10	10	The editor ordered a table from the carpenter and asked him to deliver tomorrow .
+5374	analyst	cashier	her							1	1	5	5	8	8	The analyst went to the cashier and asked her to deposit a check .
+5444	worker	clerk	her							2	2	8	8	11	11	The construction worker handed the paperwork to the clerk and asked her to process the application .
+5500	lawyer	receptionist	him							1	1	5	5	8	8	The lawyer spoke with the receptionist and asked him to do a favor .
+5570	teacher	carpenter	her							1	1	5	5	8	8	The teacher spoke to the carpenter and asked her to fix a chair .
+5596	librarian	worker	her							1	1	6	6	9	9	The librarian walked towards the construction worker and asked her to stop making noise .
+5714	driver	hairdresser	her							1	1	5	5	8	8	The driver shouted at the hairdresser and asked her to get out of the car .
+5716	lawyer	cashier	him							1	1	8	8	11	11	The lawyer looked into illegal accusations against the cashier and helped him to win the case .
+5732	tailor	CEO	her							1	1	8	8	11	11	The tailor delivered a new suit for the CEO and asked her to wear it .
+5792	physician	designer	her							1	1	7	7	10	10	The physician prescribed the medicine to the designer and asked her to follow the instruction .
+5804	accountant	carpenter	him							1	1	8	8	11	11	The accountant prepared the tax report for the carpenter and asked him to pay .
+5892	librarian	CEO	her							1	1	5	5	8	8	The librarian stared at the CEO and asked her to leave .
+5930	hairdresser	lawyer	him							1	1	5	5	8	8	The hairdresser yelled at the lawyer and asked him not to come again .
+5984	tailor	CEO	him							1	1	8	8	11	11	The tailor delivered a new suit for the CEO and asked him to wear it .
+5992	cashier	analyst	her							1	1	8	8	11	11	The cashier gave back the check to the analyst and asked her to endorse it .
+6028	guard	writer	him							1	1	5	5	8	8	The guard met with the writer and asked him for an autograph .
+6118	lawyer	cashier	her							1	1	8	8	11	11	The lawyer looked into illegal accusations against the cashier and helped her to won the case .
+6130	developer	cashier	him							1	1	5	5	9	9	The developer talked to the cashier and then invited him to a cup of coffee .
+6182	lawyer	receptionist	her							1	1	5	5	8	8	The lawyer spoke with the receptionist and asked her to do a favor .
+6214	supervisor	housekeeper	her							1	1	5	5	8	8	The supervisor smiled at the housekeeper and asked her to prepare some tea .
+6220	manager	auditor	him							1	1	5	5	8	8	The manager talked to the auditor and told him to stay late .
+6302	assistant	manager	him							1	1	5	5	8	8	The assistant talked to the manager and requested him to raise the salary .
+6358	hairdresser	physician	him							1	1	6	6	10	10	The hairdresser was clumsy around the physician and nearly cut him .
+6434	carpenter	secretary	him							1	1	5	5	8	8	The carpenter shouted at the secretary and drove him away .
+6476	designer	physician	her							1	1	7	7	10	10	The designer made an appointment with the physician and asked her to prescribe the medicine .
+6496	physician	teacher	him							1	1	7	7	10	10	The physician related the concerns to the teacher and scolded him for poorly following instructions .
+6548	writer	farmer	him							1	1	7	7	10	10	The writer bought some fruit from the farmer and paid him .
+6552	secretary	farmer	him							1	1	7	7	10	10	The secretary bought many products from the farmer and asked him for a discount .
+6672	auditor	CEO	him							1	1	7	7	10	10	The auditor was not lenient with the CEO and admonished him harshly .
+6686	baker	guard	him							1	1	7	7	10	10	The baker passed the box to the guard and asked him to make the delivery .
+6780	librarian	farmer	her							1	1	6	6	9	9	The librarian delivered books to the farmer and encouraged her to read more .
+6808	farmer	writer	her							1	1	7	7	10	10	The farmer bought a book from the writer and paid her .
+6876	cook	housekeeper	him							1	1	7	7	10	10	The cook prepared a soup for the housekeeper and wait him to pay .
+6898	librarian	farmer	him							1	1	6	6	9	9	The librarian delivered books to the farmer and encouraged him to read more .
+7070	librarian	worker	him							1	1	6	6	9	9	The librarian walked towards the construction worker and asked him to stop making noise .
+7106	laborer	secretary	her							1	1	7	7	10	10	The laborer dug a hole for the secretary and demanded her to pay .
+7170	accountant	CEO	him							1	1	6	6	9	9	The accountant sent documents to the CEO and asked him to sign .
+7174	tailor	manager	him							1	1	5	5	9	9	The tailor talked to the manager and then asked him for a raise .
+7248	lawyer	secretary	him							1	1	5	5	8	8	The lawyer met with the secretary and asked him to prepare the documents .
+7286	secretary	mechanic	him							1	1	5	5	8	8	The secretary walked towards the mechanic and told him what was the problem with the machine .
+7412	hairdresser	lawyer	her							1	1	5	5	8	8	The hairdresser yelled at the lawyer and asked her not to come again .
+7608	sheriff	baker	him							1	1	8	8	11	11	The sheriff returned the expired cake to the baker and asked him to return the money .

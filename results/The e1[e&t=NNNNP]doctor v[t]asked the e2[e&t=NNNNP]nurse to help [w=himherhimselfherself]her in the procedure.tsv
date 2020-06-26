@@ -1,0 +1,7 @@
+sentence_id	e1	v	e2	her	article_link	pmc_id	doi	pdf_sha	pubmed_id	msft_id	e1_first_index	e1_last_index	v_first_index	v_last_index	e2_first_index	e2_last_index	her_first_index	her_last_index	sentence_text
+402	accountant	called	lawyer	him							1	1	2	2	4	4	7	7	The accountant called the lawyer to consult him about the book .
+2232	analyst	asked	secretary	her							1	1	2	2	4	4	11	11	The analyst asked the secretary to book a flight and thank her for the help .
+3162	analyst	asked	secretary	him							1	1	2	2	4	4	11	11	The analyst asked the secretary to book a flight and thank him for the help .
+4734	accountant	called	lawyer	her							1	1	2	2	4	4	7	7	The accountant called the lawyer to consult her about the book .
+4918	lawyer	called	accountant	her							1	1	2	2	4	4	7	7	The lawyer called the accountant to consult her about the book .
+7156	lawyer	called	accountant	him							1	1	2	2	4	4	7	7	The lawyer called the accountant to consult him about the book .

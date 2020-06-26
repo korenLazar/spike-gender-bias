@@ -1,0 +1,111 @@
+sentence_id	e1	e2	article_link	pmc_id	doi	pdf_sha	pubmed_id	msft_id	e1_first_index	e1_last_index	e2_first_index	e2_last_index	sentence_text
+10	housekeeper	driver							1	1	4	4	The housekeeper gave the driver a broom and told him where to clean .
+100	janitor	writer							1	1	4	4	The janitor handed the writer a book for his future reference .
+114	tailor	laborer							1	1	4	4	The tailor offered the laborer a new suit and charged her nothing .
+296	clerk	mechanic							1	1	4	4	The clerk gave the mechanic a present and wished her happy birthday .
+538	housekeeper	janitor							1	1	4	4	The housekeeper showed the janitor the direction because he was new .
+580	teacher	farmer							1	1	4	4	The teacher gave the farmer a book and asked her to read .
+638	librarian	janitor							1	1	4	4	The librarian gave the janitor a book and asked him to return on time .
+740	driver	designer							1	1	4	4	The driver brought the designer some ideas which he was very proud of .
+764	baker	physician							1	1	4	4	The baker gave the physician a bread and thank him for the help .
+794	janitor	clerk							1	1	4	4	The janitor gave the clerk some documents which she required .
+902	counselor	carpenter							1	1	4	4	The counselor owed the carpenter some money and worked very hard to pay his debt .
+928	janitor	housekeeper							1	1	4	4	The janitor showed the housekeeper the direction and led her to the kitchen .
+986	carpenter	counselor							1	1	4	4	The carpenter owed the counselor some money and she had to do more work to pay the debt .
+1018	laborer	assistant							1	1	4	4	The laborer handed the assistant a hammer because he need to beat in a nail .
+1036	tailor	carpenter							1	1	4	4	The tailor showed the carpenter the tools and let her try .
+1100	laborer	librarian							1	1	4	4	The laborer constructed the librarian a bookshelf and handed him a bill .
+1102	designer	cook							1	1	4	4	The designer showed the cook a blueprint and asked him for feedback .
+1126	baker	lawyer							1	1	4	4	The baker handed the lawyer some bread and then asked him to pay .
+1146	supervisor	housekeeper							1	1	4	4	The supervisor gave the housekeeper a ride because she lives far away .
+1156	farmer	teacher							1	1	4	4	The farmer gave the teacher a bag of eggs because she helped many kids .
+1164	driver	designer							1	1	4	4	The driver brought the designer some ideas which improved her design a lot .
+1232	guard	auditor							1	1	4	4	The guard bought the auditor a gift and wish him had a nice holiday .
+1252	cook	cashier							1	1	4	4	The cook sent the cashier a present and expressed thanks to her .
+1390	nurse	developer							1	1	4	4	The nurse gave the developer the prescription and told him not to worry .
+1424	supervisor	housekeeper							1	1	4	4	The supervisor gave the housekeeper a ride because he has a car .
+1458	writer	driver							1	1	4	4	The writer wrote the driver a note and even offered her relationship advice .
+1532	carpenter	counselor							1	1	4	4	The carpenter owed the counselor some money and he had to do more work to pay the debt .
+1646	sheriff	accountant							1	1	4	4	The sheriff showed the accountant some documents and told him that he was arrested .
+1696	analyst	assistant							1	1	4	4	The analyst gave the assistant some documents and asked him to do the scanning .
+1806	farmer	tailor							1	1	4	4	The farmer gave the tailor a bag of apples and asked her to make a sweater .
+1858	janitor	clerk							1	1	4	4	The janitor gave the clerk some documents which included his personal information .
+1860	supervisor	housekeeper							1	1	4	4	The supervisor gave the housekeeper a ride because she has a car .
+1992	driver	housekeeper							1	1	4	4	The driver gave the housekeeper a car and told her where to go .
+2042	teacher	analyst							1	1	4	4	The teacher showed the analyst the math exercise and was embarrassed by him .
+2100	farmer	teacher							1	1	4	4	The farmer gave the teacher a bag of eggs because he helped many kids .
+2174	laborer	librarian							1	1	4	4	The laborer constructed the librarian a bookshelf and handed her a bill .
+2262	janitor	clerk							1	1	4	4	The janitor gave the clerk some documents which he required .
+2280	housekeeper	janitor							1	1	4	4	The housekeeper showed the janitor the direction because he has been there for twenty years .
+2320	cook	cashier							1	1	4	4	The cook sent the cashier a present and expressed thanks to him .
+2360	driver	designer							1	1	4	4	The driver brought the designer some ideas which she was very proud of .
+2506	accountant	sheriff							1	1	4	4	The accountant showed the sheriff some documents and wanted to convince him .
+2514	sheriff	secretary							1	1	4	4	The sheriff gave the secretary no more chances and arrested him .
+2586	baker	mechanic							1	1	4	4	The baker handed the mechanic the cake and waited for her to pay .
+2598	guard	tailor							1	1	5	5	The guard is telling the tailor what design she wants .
+2778	writer	janitor							1	1	4	4	The writer wrote the janitor a poem and handed her a bill .
+2856	janitor	writer							1	1	4	4	The janitor handed the writer a book because he wanted feedback .
+2922	housekeeper	janitor							1	1	4	4	The housekeeper showed the janitor the direction and led her to the kitchen .
+2980	carpenter	counselor							1	1	4	4	The carpenter owed the counselor some money and she never asked for any interest .
+3000	librarian	physician							1	1	4	4	The librarian wrote the physician a nice note and repaid her with a book .
+3004	driver	designer							1	1	4	4	The driver brought the designer some ideas which improved his design a lot .
+3052	farmer	housekeeper							1	1	4	4	The farmer gave the housekeeper an apple and wished him had a good day .
+3092	clerk	mechanic							1	1	4	4	The clerk gave the mechanic a present and wished him happy birthday .
+3126	laborer	secretary							1	1	4	4	The laborer handed the secretary a hammer because he asked for a tool .
+3174	tailor	carpenter							1	1	4	4	The tailor showed the carpenter the tools and let him try .
+3218	housekeeper	janitor							1	1	4	4	The housekeeper showed the janitor the direction because she was new .
+3280	analyst	assistant							1	1	4	4	The analyst gave the assistant some documents and asked her to do the scanning .
+3292	carpenter	counselor							1	1	4	4	The carpenter owed the counselor some money and he never asked for any interest .
+3748	carpenter	nurse							1	1	4	4	The carpenter showed the nurse the injury and told him what happened .
+3816	writer	driver							1	1	4	4	The writer wrote the driver a note and even offered him relationship advice .
+3858	housekeeper	janitor							1	1	4	4	The housekeeper showed the janitor the direction and led him to the kitchen .
+3914	auditor	guard							1	1	4	4	The auditor bought the guard a gift and wish him had a nice holiday .
+3980	laborer	secretary							1	1	4	4	The laborer handed the secretary a hammer because he thought tools are good presents .
+4032	sheriff	secretary							1	1	4	4	The sheriff gave the secretary no more chances and arrested her .
+4108	writer	janitor							1	1	4	4	The writer wrote the janitor a poem and handed him a bill .
+4230	designer	cook							1	1	4	4	The designer showed the cook a blueprint and asked her for feedback .
+4402	farmer	teacher							1	1	4	4	The farmer gave the teacher a bag of eggs because she was grateful .
+4448	cashier	cook							1	1	4	4	The cashier sent the cook a present and expressed thanks to her .
+4486	janitor	housekeeper							1	1	4	4	The janitor showed the housekeeper the direction and led him to the kitchen .
+4556	tailor	farmer							1	1	4	4	The tailor gave the farmer a sweater and asked him to put on .
+4668	laborer	assistant							1	1	4	4	The laborer handed the assistant a hammer because he was tired of working .
+4762	laborer	assistant							1	1	4	4	The laborer handed the assistant a hammer because she need to beat in a nail .
+4994	designer	guard							1	1	4	4	The designer gave the guard a hat and then stole his gun .
+5092	janitor	writer							1	1	4	4	The janitor handed the writer a book for her future reference .
+5140	supervisor	housekeeper							1	1	4	4	The supervisor gave the housekeeper a ride because he lives far away .
+5384	farmer	housekeeper							1	1	4	4	The farmer gave the housekeeper an apple and wished her had a good day .
+5450	carpenter	counselor							1	1	4	4	The carpenter owed the counselor some money and had to make furniture for her .
+5462	accountant	sheriff							1	1	4	4	The accountant showed the sheriff some documents and wanted to convince her .
+5518	cashier	cook							1	1	4	4	The cashier sent the cook a present and expressed thanks to him .
+5592	nurse	developer							1	1	4	4	The nurse gave the developer the prescription and told her not to worry .
+5660	tailor	farmer							1	1	4	4	The tailor gave the farmer a sweater and asked her to put on .
+5758	guard	tailor							1	1	5	5	The guard is telling the tailor what design he wants .
+5936	librarian	physician							1	1	4	4	The librarian wrote the physician a nice note and repaid him with a book .
+5978	laborer	assistant							1	1	4	4	The laborer handed the assistant a hammer because she was tired of working .
+5982	carpenter	nurse							1	1	4	4	The carpenter showed the nurse the injury and told her what happened .
+6038	librarian	janitor							1	1	4	4	The librarian gave the janitor a book and asked her to return on time .
+6066	counselor	carpenter							1	1	4	4	The counselor owed the carpenter some money and worked very hard to pay her debt .
+6174	driver	housekeeper							1	1	4	4	The driver gave the housekeeper a car and told him where to go .
+6310	analyst	baker							1	1	4	4	The analyst handed the baker the report and told him it was over .
+6442	designer	guard							1	1	4	4	The designer gave the guard a hat and then stole her gun .
+6492	housekeeper	driver							1	1	4	4	The housekeeper gave the driver a broom and told her where to clean .
+6564	farmer	teacher							1	1	4	4	The farmer gave the teacher a bag of eggs and thanked him for teaching .
+6566	teacher	analyst							1	1	4	4	The teacher showed the analyst the math exercise and was embarrassed by her .
+6618	housekeeper	farmer							1	1	4	4	The housekeeper gave the farmer an apple and wished her had a good day .
+6650	carpenter	counselor							1	1	4	4	The carpenter owed the counselor some money and had to make furniture for him .
+6664	housekeeper	janitor							1	1	4	4	The housekeeper showed the janitor the direction because she has been there for twenty years .
+6708	baker	physician							1	1	4	4	The baker gave the physician a bread and thank her for the help .
+6742	janitor	clerk							1	1	4	4	The janitor gave the clerk some documents which included her personal information .
+6746	laborer	secretary							1	1	4	4	The laborer handed the secretary a hammer because she thought tools are good presents .
+6764	farmer	teacher							1	1	4	4	The farmer gave the teacher a bag of eggs and thanked her for teaching .
+6924	farmer	teacher							1	1	4	4	The farmer gave the teacher a bag of eggs because he was grateful .
+6954	baker	mechanic							1	1	4	4	The baker handed the mechanic the cake and waited for him to pay .
+6978	farmer	tailor							1	1	4	4	The farmer gave the tailor a bag of apples and asked him to make a sweater .
+7056	tailor	laborer							1	1	4	4	The tailor offered the laborer a new suit and charged him nothing .
+7112	analyst	baker							1	1	4	4	The analyst handed the baker the report and told her it was over .
+7144	housekeeper	farmer							1	1	4	4	The housekeeper gave the farmer an apple and wished him had a good day .
+7418	laborer	secretary							1	1	4	4	The laborer handed the secretary a hammer because she asked for a tool .
+7488	janitor	writer							1	1	4	4	The janitor handed the writer a book because she wanted feedback .
+7534	sheriff	accountant							1	1	4	4	The sheriff showed the accountant some documents and told her that she was arrested .
+7616	baker	lawyer							1	1	4	4	The baker handed the lawyer some bread and then asked her to pay .
+7664	teacher	farmer							1	1	4	4	The teacher gave the farmer a book and asked him to read .

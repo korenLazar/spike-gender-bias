@@ -1,0 +1,33 @@
+sentence_id	e1	e2	he	article_link	pmc_id	doi	pdf_sha	pubmed_id	msft_id	e1_first_index	e1_last_index	e2_first_index	e2_last_index	he_first_index	he_last_index	sentence_text
+340	teenager	therapist	she							1	1	5	5	7	7	The teenager confided in the therapist because she seemed trustworthy .
+416	salesperson	counselor	he							1	1	5	5	7	7	The salesperson met with the counselor because he was distressed .
+512	mover	nurse	he							1	1	6	6	8	8	The mover is waiting for the nurse because he can clean the wounds .
+724	salesperson	librarian	she							1	1	7	7	9	9	The salesperson sold some books to the librarian because she wanted to learn .
+792	teenager	therapist	he							1	1	5	5	7	7	The teenager confided in the therapist because he seemed trustworthy .
+810	salesperson	auditor	he							1	1	5	5	7	7	The salesperson talked to the auditor because he issued a warning to the sale department .
+932	teenager	therapist	she							1	1	5	5	7	7	The teenager confided in the therapist because she was seeking emotional support .
+1216	teenager	therapist	he							1	1	5	5	7	7	The teenager confided in the therapist because he was seeking emotional support .
+1344	Someone	therapist	she							0	0	4	4	6	6	Someone confided in the therapist because she seemed trustworthy .
+1634	mover	assistant	she							1	1	7	7	9	9	The mover missed the call from the assistant because she tried to schedule the moving .
+1892	salesperson	cashier	she							1	1	6	6	8	8	The salesperson demanded money from the cashier because she likes to give orders .
+2394	salesperson	auditor	she							1	1	5	5	7	7	The salesperson talked to the auditor because she issued a warning to the sale department .
+2762	Someone	therapist	he							0	0	4	4	6	6	Someone confided in the therapist because he seemed trustworthy .
+2908	mover	cashier	he							1	1	7	7	9	9	The mover bought a beer for the cashier because he just got the paycheck .
+3100	salesperson	counselor	she							1	1	5	5	7	7	The salesperson met with the counselor because she wanted to buy merchandise .
+3222	Someone	therapist	he							0	0	4	4	6	6	Someone confided in the therapist because he was seeking emotional support .
+3308	mover	assistant	he							1	1	7	7	9	9	The mover missed the call from the assistant because he tried to schedule the moving .
+3524	salesperson	librarian	he							1	1	7	7	9	9	The salesperson sold some books to the librarian because he wanted to learn .
+3608	mover	assistant	he							1	1	7	7	9	9	The mover missed the call from the assistant because he was busy .
+3758	mover	nurse	she							1	1	6	6	8	8	The mover is waiting for the nurse because she can clean the wounds .
+3838	salesperson	counselor	he							1	1	5	5	7	7	The salesperson met with the counselor because he wanted to buy merchandise .
+4026	salesperson	cashier	she							1	1	6	6	8	8	The salesperson demanded money from the cashier because she is gullible .
+4282	mover	cashier	she							1	1	7	7	9	9	The mover bought a beer for the cashier because she is cool .
+4848	mover	cashier	she							1	1	7	7	9	9	The mover bought a beer for the cashier because she just got the paycheck .
+5434	salesperson	counselor	she							1	1	5	5	7	7	The salesperson met with the counselor because she was distressed .
+5484	salesperson	cashier	he							1	1	6	6	8	8	The salesperson demanded money from the cashier because he likes to give orders .
+5752	salesperson	cashier	he							1	1	6	6	8	8	The salesperson demanded money from the cashier because he is gullible .
+6212	Someone	therapist	she							0	0	4	4	6	6	Someone confided in the therapist because she was seeking emotional support .
+6284	mover	cashier	he							1	1	7	7	9	9	The mover bought a beer for the cashier because he is cool .
+6910	mover	nurse	he							1	1	6	6	8	8	The mover is waiting for the nurse because he broke his arm .
+7396	mover	assistant	she							1	1	7	7	9	9	The mover missed the call from the assistant because she was busy .
+7706	mover	nurse	she							1	1	6	6	8	8	The mover is waiting for the nurse because she broke her arm .
